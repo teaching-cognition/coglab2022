@@ -1,2 +1,3 @@
-# coglab2022
+# Lab in Cognitive Science
+
 This repository will host the course content and syllabi for the Fall 2022 course "Lab in Cognitive Science"
