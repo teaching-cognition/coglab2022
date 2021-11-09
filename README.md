@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Welcome to Lab in Cognitive Science"
+permalink: /
+---
+
 # Lab in Cognitive Science
 ## Fall 2022
 
