@@ -9,7 +9,7 @@ permalink: /
 # Lab in Cognitive Science (PSYC 2740)
 ## Fall 2022
 
-Abhilasha A. Kumar <br>
+Course Instructor: Abhilasha Kumar <br>
 *Bowdoin College*
 
 Welcome to Lab in Cognitive Science! <br>
