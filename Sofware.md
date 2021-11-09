@@ -1,3 +1,9 @@
+---
+layout: default
+title: Assignments
+nav_order: 3
+---
+
 # Software
 
 You will learn to use a variety of platforms for cognitive research during this course. This page contains more information about each platform.
