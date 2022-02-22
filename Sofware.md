@@ -8,10 +8,6 @@ nav_order: 4
 
 You will learn to use a variety of platforms for cognitive research during this course. This page contains more information about each platform.
 
-## PsychoPy
-
-Although we will not learn to program in PsychoPy, we will get a brief introduction to this in our first module.
-
 ## R + RStudio
 
 You will learn how to arrange and analyze data using a statistical programming language called R.

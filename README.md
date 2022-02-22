@@ -6,14 +6,15 @@ description: "Welcome to Lab in Cognitive Science"
 permalink: /
 ---
 
-# Lab in Cognitive Science (PSYC 2740 / Fall 2022)
+# Lab in Cognitive Science: PSYC 2740
 
-Welcome to CogLab! <br> This website will host the course content and syllabi for the course *Lab in Cognitive Science* at Bowdoin College. <br>
+Welcome to CogLab! This website will host the course content and syllabi for the course *Lab in Cognitive Science*.
 
 
 ## Basic Course Information
 
 **Course Instructor**: Abhilasha Kumar, Assistant Professor of Psychology <br>
+**Semester**: <br>
 **When**: <br>
 **Where**: <br>
 **Website**: You are here!
@@ -34,9 +35,9 @@ At the end of this course, you will be able to: <br>
 
 All details about assignments, grading, readings, etc. will be posted on this website. <br>
 
-**Class Schedule**: Head over to the syllabus page for the class schedule as assigned readings.
-**Grading**: Head over to the Grading page to know how you will be evaluated. 
-**Assignments**: This page will host more details about each assignment, with the specified due dates.
-**Software**: If you are looking for information about the different software, this is your page.
-**Course Policies**: Head over here to read our policies. 
-**Resources**: If you are looking for extra course-related resources, this is where you'll find them.
+**Class Schedule**: Head over to the syllabus page for the class schedule as assigned readings.<br>
+**Grading**: Head over to the Grading page to know how you will be evaluated. <br>
+**Assignments**: This page will host more details about each assignment, with the specified due dates.<br>
+**Software**: If you are looking for information about the different software, this is your page.<br>
+**Course Policies**: Head over here to read our policies. <br>
+**Resources**: If you are looking for extra course-related resources, this is where you'll find them.<br>
