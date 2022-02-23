@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Policies
-nav_order: 7
+title: Course policies
+has_children: true
+nav_order: 4
 ---
 
-# Resources
+# Course Policies

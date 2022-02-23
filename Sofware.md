@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Software
-nav_order: 4
+parent: Resources
+nav_order: 1
 ---
 
 # Software

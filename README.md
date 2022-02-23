@@ -13,7 +13,7 @@ Welcome to CogLab! This website will host the course content and syllabi for PSY
 
 ## Basic Course Information
 
-**Course Instructor**: Abhilasha Kumar, Assistant Professor of Psychology <br>
+**Course Instructor**: Abhilasha Kumar, Assistant Professor of Psychology [[contact](https://teaching-cognition.github.io/coglab/contact.html)]<br>
 **Semester**: Fall 2022<br>
 **Pre-requisites**: <br>
 **When**: <br>
