@@ -8,14 +8,14 @@ permalink: /
 
 # Lab in Cognitive Science: PSYC 2740
 
-Welcome to CogLab! This website will host the course content and syllabi for *PSYC 2740*.
+Welcome to CogLab! This website will host the course content and syllabi for PSYC 2740.
 
 
 ## Basic Course Information
 
 **Course Instructor**: Abhilasha Kumar, Assistant Professor of Psychology <br>
 **Semester**: Fall 2022<br>
-**Pre-requisites**:
+**Pre-requisites**: <br>
 **When**: <br>
 **Where**: <br>
 **Website**: You are here!

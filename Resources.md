@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Software
+title: Resources
 nav_order: 6
 ---
 
