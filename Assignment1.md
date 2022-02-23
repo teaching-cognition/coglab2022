@@ -7,7 +7,8 @@ nav_order: 1
 # Assignment 1: HTML 101 
 
 ## Due Sep 3, 2022 midnight
-**Points**: 5% of your grade <br>
+**Points**: 10 <br>
+**Weight**: 5% of your grade <br>
 
 The goal of this assignment is to get you comfortable with building a basic HTML webpage.
 
@@ -19,6 +20,4 @@ The goal of this assignment is to get you comfortable with building a basic HTML
 6. Rename your edited html file with your initials, e.g., AK.html.
 
 Upload your completed assignment to your github repository titled "Assignment 1". 
-
-
 

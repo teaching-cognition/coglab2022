@@ -7,7 +7,7 @@ nav_order: 3
 
 # Assignments
 
-Here you will find all assignments for this course. The latest timestamp on your assignment will be considered as your final submission time.
+Here you will find all assignments for this course. All assignments should be uploaded into their respective folders on Github. The latest timestamp on your assignment will be considered as your final submission time.
 
 ## Redoing assignments
 
