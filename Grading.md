@@ -9,29 +9,28 @@ nav_order: 4
 <table>
     <thead>
         <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
+            <th>Component</th>
+            <th>Details</th>
+            <th>Weight</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
+            <td colspan=4>Organizational Skills (10%)</td>
+            <td></td>
+            <td>Github updates</td>
+            <td>5%</td>
         </tr>
         <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
+            <td colspan=4>Critical Thinking Skills (50%)</td>
+            <td></td>
+            <td>Literature review</td>
+            <td>5%</td>
         </tr>
     </tbody>
 </table>
+
+
 
 | Component                 | Event                     | Weight                 | Sub-weight                 |
 | :---:                     | :---:                     | :---:                  |                            |
