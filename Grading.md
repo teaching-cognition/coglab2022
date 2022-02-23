@@ -15,18 +15,11 @@ nav_order: 4
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td colspan=4>Organizational Skills (10%)</td>
-            <td></td>
-            <td>Github updates</td>
-            <td>5%</td>
-        </tr>
-        <tr>
-            <td colspan=4>Critical Thinking Skills (50%)</td>
-            <td></td>
-            <td>Literature review</td>
-            <td>5%</td>
-        </tr>
+        <tr><td colspan=3>Organizational Skills (10%)</td></tr>
+        <tr><td></td><td>Github updates</td><td>5%</td></tr>
+        <tr><td></td><td>Reproducibility score</td><td>5%</td></tr>
+        <tr><td colspan=3>Critical Thinking Skills (50%)</td></tr>
+        <tr><td></td><td>Literature review</td><td>5%</td></tr>
     </tbody>
 </table>
 
