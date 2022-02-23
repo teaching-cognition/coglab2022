@@ -28,7 +28,7 @@ nav_order: 1
         <tr><td>Class participation</td><td>2.5%</td></tr>
         <tr><td>Pre-registration</td><td>10%</td></tr>
         <tr><td>Three-minute thesis</td><td>10%</td></tr>
-        <tr><td>psyarxiv</td><td>15%</td></tr>
+        <tr><td>poster+ report/psyarxiv</td><td>15%</td></tr>
         <tr><td>Peer review</td><td>2.5%</td></tr>
         <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=1><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">100</td></tr>
     </tbody>
