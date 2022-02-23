@@ -8,36 +8,32 @@ permalink: /
 
 # Lab in Cognitive Science: PSYC 2740
 
-Welcome to CogLab! This website will host the course content and syllabi for the course *Lab in Cognitive Science*.
+Welcome to CogLab! This website will host the course content and syllabi for *PSYC 2740*.
 
 
 ## Basic Course Information
 
 **Course Instructor**: Abhilasha Kumar, Assistant Professor of Psychology <br>
-**Semester**: <br>
+**Semester**: Fall 2022<br>
+**Pre-requisites**:
 **When**: <br>
 **Where**: <br>
 **Website**: You are here!
 
 ## What is this course about?
 
-CogLab is a lab course that will expose you to modern techniques used in cognitive science that can be applied to the study of cognition. Together, we will learn how to develop a research question, conceptualize scientific experiments from start to finish, analyze experimental data, and write scientific reports that synthesize important insights about human behavior.
+The mind is one of the biggest human puzzles, and scientific exploration of different aspects of the mind is the central goal of cognitive science. This lab course will expose you to modern techniques used in cognitive science that can be applied to the study of cognition. Together, we will learn how to develop a research question, conceptualize scientific experiments from start to finish, analyze experimental data, and write scientific reports that synthesize important insights about human cognition.
 
 ## Why take this course?
 
-At the end of this course, you will be able to: <br>
-1. Design and conduct a web-based experiment about cognition
-2. Analyze a study for reliability and validity
-3. Master best open science practices
-4. Create a reproducible workflow
+In addition to delving into some key aspects of cognition, my hope as an instructor is to **empower** you with an analytical toolkit that you can apply to different areas of your life. At the end of this course, you will be able to: <br>
+1. Design and conduct a web-based experiment about cognition (using HTML and Javascript)
+2. Analyze data (in an open source programming framework, RStudio)
+3. Master best open science practices (via replication and peer review)
+4. Create a reproducible workflow (via Github)
+
+If some or all of this is new to you, then this is the **perfect** course for you! The course is aimed at beginners with little to no technical or programming background. If you have questions, feel free to [reach out](https://teaching-cognition.github.io/coglab/contact.html) to me. 
 
 ## How to navigate this site?
 
-All details about assignments, grading, readings, etc. will be posted on this website. <br>
-
-**Class Schedule**: Head over to the syllabus page for the class schedule as assigned readings.<br>
-**Grading**: Head over to the Grading page to know how you will be evaluated. <br>
-**Assignments**: This page will host more details about each assignment, with the specified due dates.<br>
-**Software**: If you are looking for information about the different software, this is your page.<br>
-**Course Policies**: Head over here to read our policies. <br>
-**Resources**: If you are looking for extra course-related resources, this is where you'll find them.<br>
+All course details will be posted on this website. Use the sidebar to explore the course content, class schedule, assignments, and grading and course policies.
