@@ -48,6 +48,6 @@ nav_order: 2
     <tr><td>Nov. 29</td><td>Storytelling</td><td></td><td></td></tr>
     <tr><td>Dec. 1</td><td>Storytelling</td><td></td><td>Assignment 9 due</td></tr>
     <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 10 due</td></tr>
-    <tr><td>Dec. 8</td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 3>Symposia!</td><td></td><td></td></tr>
+    <tr><td>Dec. 8</td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 3>Symposia!</td></tr>
     </tbody>
 </table>

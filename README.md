@@ -20,13 +20,13 @@ Welcome to CogLab! This website will host the course content and syllabi for PSY
 **Website**: You are here!
 
 ## Who is your instructor?
-![Abhilasha Kumar headshot](kumar-thumbnail.png)
+![Abhilasha Kumar headshot](kumar_thumbnail.png)<br>
 **Abhilasha Kumar**: [Hear my name](https://www.name-coach.com/abhilasha-kumar)!<br>
-**pronouns**: she/her<br>
-**bio**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new cocktail and baking recipes, and playing tennis (badly)! <br>
-**email**: a.kumar@bowdoin.edu <br>
-**office**: Kanbar Hall, Room 217 <br>
-**student/office hours**: 
+**Pronouns**: she/her<br>
+**About me**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new cocktail and baking recipes, and playing tennis (badly)! <br>
+**Email**: a.kumar@bowdoin.edu <br>
+**Office**: Kanbar Hall, Room 217 <br>
+**Student/Office hours**: 
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time or [schedule an appointment]().
 
