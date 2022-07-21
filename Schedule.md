@@ -15,7 +15,7 @@ nav_order: 2
     </thead>
     <tbody>
     <tr><td>Sep. 1</td><td>Meet & greet</td><td></td><td></td></tr>
-    <tr><td>Sep. 6</td><td>Replication</td><td><i>Read</i>: Frank & Saxe (2012)<br><i>Do</i>:<a href="https://teaching-cognition.github.io/coglab/Assignment1.html"> experiment</a></td><td></td></tr>
+    <tr><td>Sep. 6</td><td>Why replicate?</td><td><i>Read</i>: Edlund et al. (2022)<br><i>Read</i>: QALMRI<br><i>Do</i>: experiment</td><td></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 5>Design I</td></tr>
     <tr><td>Sep. 8</td><td>Research 101</td><td>Read: RM paper</td><td></td></tr>
     <tr><td>Sep. 13</td><td>HTML 101</td><td>Do: HTML Intro</td><td></td></tr>

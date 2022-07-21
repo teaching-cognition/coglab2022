@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Software
-parent: Resources
-nav_order: 1
+nav_order: 5
 ---
 
 # Software
@@ -20,8 +19,3 @@ You will learn how to design research experiments using a JavaScript-based progr
 ## OSF
 
 We will use OSF for pre-registration and for the final publication of your research report.
-
-## psyarxiv
-
-You will upload your final paper to psyarxiv and link it to OSF.
-
