@@ -38,7 +38,7 @@ The mind is one of the biggest human puzzles, and scientific exploration of diff
 In addition to delving into some key aspects of cognition, my hope as an instructor is to **empower** you with an analytical toolkit that can be applied to other areas of your life. At the end of this course, my hope is that you will be able to: <br>
 1. <span style="color:#508AB0">Design</span> and conduct a web-based experiment about cognition 
 2. Describe and <span style="color:#E7AC10">analyze</span> data 
-3. <span style="color:##B321EE">Communicate</span> scientific findings
+3. <span style="color:#B321EE">Communicate</span> scientific findings
 
 In achieving these learning goals, we will also emphasize and adopt **open science** practices, that are central to conducting robust scientific research. 
 

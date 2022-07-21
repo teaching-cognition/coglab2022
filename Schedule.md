@@ -17,10 +17,10 @@ nav_order: 2
     <tr><td>Sep. 1</td><td>Meet & greet</td><td></td><td></td></tr>
     <tr><td>Sep. 6</td><td>Why replicate?</td><td><i>Read</i>: Edlund et al. (2022)<br><i>Read</i>: QALMRI<br><i>Do</i>: experiment</td><td></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 5>Design I</td></tr>
-    <tr><td>Sep. 8</td><td>Research 101</td><td>Read: RM paper</td><td></td></tr>
-    <tr><td>Sep. 13</td><td>HTML 101</td><td>Do: HTML Intro</td><td></td></tr>
-    <tr><td>Sep. 15</td><td>JSPsych 101</td><td></td><td><a href="https://teaching-cognition.github.io/coglab/Assignment1.html">Assignment 1: HTML due</a></td></tr>
-    <tr><td>Sep. 20</td><td>JSPsych plugins</td><td></td><td></td></tr>
+    <tr><td>Sep. 8</td><td>anatomy of an experiment</td><td><i>Brainstorm</i>: project ideas + groups<br><i>Create</i>: Github account<br></td><td></td></tr>
+    <tr><td>Sep. 13</td><td>your first webpage</td><td><i>Do</i>: Github exercise<br><i>Watch</i>: HTML 101 video<br></td><td></td></tr>
+    <tr><td>Sep. 15</td><td>JSPsych 101</td><td><i>Submit</i>: Assignment 1<br><i>Read</i>: Nosek et al., 2018<br></td><td>Assignment 1 due</a></td></tr>
+    <tr><td>Sep. 20</td><td>JSPsych plugins</td><td><i>Read</i>: JSPsych plugins<br><i>Do</i>: Which plugin where?<br></td><td></td></tr>
     <tr><td>Sep. 22</td><td>JSPsych logic</td><td></td><td></td></tr>
     <tr><td>Sep. 27</td><td>JSPsych data</td><td></td><td></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 5>Analyze I</td></tr>
