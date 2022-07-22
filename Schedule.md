@@ -5,14 +5,14 @@ nav_order: 2
 ---
 
 <table>
-    <thead>
+    
         <tr>
             <th>Date</th>
             <th>Topic</th>
             <th>Before class</th>
             <th>Assignments due</th>
         </tr>
-    </thead>
+    
     <tbody>
     <tr><td>Sep. 1</td><td>Meet & greet</td><td></td><td></td></tr>
     <tr><td>Sep. 6</td><td>Why replicate?</td><td><i>Read</i>: Edlund et al. (2022)<br><i>Read</i>: QALMRI<br><i>Do</i>: experiment</td><td></td></tr>
@@ -49,5 +49,5 @@ nav_order: 2
     <tr><td>Dec. 1</td><td>Storytelling</td><td></td><td>Assignment 9 due</td></tr>
     <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 10 due</td></tr>
     <tr><td>Dec. 8</td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 3>Symposia!</td></tr>
-    </tbody>
+    
 </table>
