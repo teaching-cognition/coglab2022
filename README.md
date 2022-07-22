@@ -20,7 +20,7 @@ Welcome to CogLab! This website will host the course content and syllabi for PSY
 **Website**: You are here!
 
 ## Who is your instructor?
-<img class = "headshot" src = "kumar_thumbnail.png"></img><br>
+<img width = "30%" height = "auto" src = "kumar_thumbnail.png"></img><br>
 **Abhilasha Kumar**: [Hear my name](https://www.name-coach.com/abhilasha-kumar)!<br>
 **Pronouns**: she/her<br>
 **About me**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new cocktail and baking recipes, and playing tennis (badly)! <br>
