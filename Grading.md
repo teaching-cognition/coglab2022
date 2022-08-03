@@ -15,7 +15,11 @@ The grading scale for this class is as follows:
 
 All scores will be rounded to the nearest whole number. 
 
-Grades will be determined based on the following rubric, which is based on emphasizing our three learning goals: <span style="color:#508AB0">designing</span>, <span style="color:#E7AC10">analyzing</span>, and <span style="color:#1CB447">communicating</span> .
+Grades will be determined based on the following rubric, which is based on emphasizing our three learning goals: 
+1. <span style="color:#508AB0">Design</span> and conduct a web-based experiment about cognition 
+2. Describe and <span style="color:#E7AC10">analyze</span> data 
+3. <span style="color:#1CB447">Communicate</span> scientific findings
+
 
 <table>
     <thead>

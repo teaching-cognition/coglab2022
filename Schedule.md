@@ -7,8 +7,8 @@ nav_order: 2
         <tr>
             <th>Date</th>
             <th>Topic</th>
-            <th>Assigned materials [before class]</th>
-            <th>Assignments/Tasks due [11.59 pm]</th> 
+            <th>Assigned materials <br> [before class]</th>
+            <th>Assignments/Tasks due <br>[11.59 pm]</th> 
     <tbody>
     <tr><td>Sep. 1</td><td>Meet & greet</td><td></td><td>Pre-class survey [Canvas]</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 2: Replication and research design</td></tr>
@@ -31,7 +31,7 @@ nav_order: 2
     <tr><td>Oct. 13</td><td>Manipulating data</td><td></td><td>Assignment 3 (build an experiment - I) due <br> <i>Do</i>: R Bootcamp [Chapter 3]</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 8: Understanding data</td></tr>
     <tr><td>Oct. 18</td><td>Inferential statistics</td><td></td><td>Assignment 4 due</td></tr>
-    <tr><td>Oct. 20</td><td>Inferential statistics/td><td></td><td></td></tr>
+    <tr><td>Oct. 20</td><td>Inferential statistics</td><td></td><td></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 9: Communicating science</td></tr>
     <tr><td>Oct. 25</td><td>Storytelling</td><td></td><td>Assignment 4 (descriptive statistics) due</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 9-11: Designing your own study</td></tr>
@@ -42,7 +42,7 @@ nav_order: 2
     <tr><td>Nov. 10</td><td>Catch up week</td><td></td><td>Assignment 6 (build and experiment - II) due</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 12-13: Analyzing real data</td></tr>
     <tr><td>Nov. 15</td><td>Analysis time</td><td></td><td></td></tr>
-    <tr><td>Nov. 17</td><td>Psychonomics Conference</td><td></td><td></td></tr>
+    <tr><td>Nov. 17</td><td colspan = 3>Psychonomics conference (no class)</td><td></td><td></td></tr>
     <tr><td>Nov. 22</td><td>Analysis</td><td></td><td>Assignment 7 (analyze project data) due</td></tr>
     <tr><td>Nov. 24</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3> <img src="pumpkin.png" width="3%" height = "3%"> THANKSGIVING BREAK!! <img src="pumpkin.png" width="3%" height = "3%"></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 13-14: Communicating replications</td></tr>
@@ -50,5 +50,5 @@ nav_order: 2
     <tr><td>Dec. 1</td><td>Storytelling</td><td></td><td>Assignment 8 (poster draft) due</td></tr>
     <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 9 (peer review) due</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 15: Open science refresher</td></tr>
-    <tr><td>Dec. 8</td><td colspan = 3>Symposia!</td></tr>
+    <tr><td>Dec. 8</td><td style="text-align: center;" colspan = 3>Symposia!</td></tr>
     <tr><td>Dec. 10</td><td>Peer review</td><td></td><td>Assignment 10 (final poster) due</td>
