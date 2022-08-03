@@ -27,15 +27,15 @@ Grades will be determined based on the following rubric, which is based on empha
     </thead>
     <tbody>
         <tr><td>Assignment 1 (build a webpage)</td><td><span style="color:#508AB0">Design</span></td><td>5</td></tr>
-        <tr><td>Assignment 2 (pre-registration draft)</td><td><span style="color:#1CB447">Communicate</span> </td><td>10</td></tr>
+        <tr><td>Assignment 2 (pre-registration draft)</td><td><span style="color:#508AB0">Design</span>/<span style="color:#1CB447">Communicate</span> </td><td>10</td></tr>
         <tr><td>Assignment 3 (build an experiment - I)</td><td><span style="color:#508AB0">Design</span></td><td>15</td></tr>
         <tr><td>Assignment 4 (descriptive statistics)</td><td><span style="color:#E7AC10">Analyze</span></td><td>10</td></tr>
         <tr><td>Assignment 5 (inferential statistics)</td><td><span style="color:#E7AC10">Analyze</span></td><td>10</td></tr>
-        <tr><td>Assignment 6 (three-minute thesis)</td><td><span style="color:#1CB447">Communicate</span> </td><td>5</td></tr>
-        <tr><td>Assignment 7 (build an experiment - II)</td><td><span style="color:#508AB0">Design</span></td><td>15</td></tr>
-        <tr><td>Assignment 8 (analyze project data)</td><td><span style="color:#E7AC10">Analyze</span></td><td>15</td></tr>
-        <tr><td>Assignment 9 (poster)</td><td><span style="color:#1CB447">Communicate</span> </td><td>10</td></tr>
-        <tr><td>Assignment 10 (peer review)</td><td><span style="color:#1CB447">Communicate</span> </td><td>5</td></tr>
+        <tr><td>Assignment 6 (build an experiment - II)</td><td><span style="color:#508AB0">Design</span></td><td>15</td></tr>
+        <tr><td>Assignment 7 (analyze project data)</td><td><span style="color:#E7AC10">Analyze</span></td><td>15</td></tr>
+        <tr><td>Assignment 8 (poster draft)</td><td><span style="color:#1CB447">Communicate</span> </td><td>5</td></tr>
+        <tr><td>Assignment 9 (peer review)</td><td><span style="color:#1CB447">Communicate</span> </td><td>5</td></tr>
+        <tr><td>Assignment 10 (final poster)</td><td><span style="color:#1CB447">Communicate</span> </td><td>10</td></tr>
         <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan=2><strong>Total</strong></td><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2">100</td></tr>
     </tbody>
 </table>
