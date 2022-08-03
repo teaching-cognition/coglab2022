@@ -42,7 +42,7 @@ nav_order: 2
     <tr><td>Nov. 10</td><td>Catch up week</td><td></td><td>Assignment 6 (build and experiment - II) due</td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 12-13: Analyzing real data</td></tr>
     <tr><td>Nov. 15</td><td>Analysis time</td><td></td><td></td></tr>
-    <tr><td>Nov. 17</td><td colspan = 3>Psychonomics conference (no class)</td><td></td><td></td></tr>
+    <tr><td>Nov. 17</td><td colspan = 3>Psychonomics conference (no class)</td></tr>
     <tr><td>Nov. 22</td><td>Analysis</td><td></td><td>Assignment 7 (analyze project data) due</td></tr>
     <tr><td>Nov. 24</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3> <img src="pumpkin.png" width="3%" height = "3%"> THANKSGIVING BREAK!! <img src="pumpkin.png" width="3%" height = "3%"></td></tr>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 13-14: Communicating replications</td></tr>
