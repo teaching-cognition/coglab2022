@@ -27,7 +27,7 @@ This page will host the schedule of topics for the course. Please note that this
     <tr><td>Sep. 27</td><td>Where's the data?</td><td></td><td></td>
     <tr><td>Sep. 29</td><td>Experiment workflow</td><td><i>Read</i>: Nosek et al. (2018)<br><i>Read</i>: Pre-registration primer</td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 6: Visualizing data</td>
-    <tr><td>Oct. 4</td><td>R 101</td><td>Download RStudio</td><td>Assignment 2 (build and experiment - I) due</td>
+    <tr><td>Oct. 4</td><td>R 101</td><td>Download RStudio</td><td>Assignment 2 (build an experiment - I) due</td>
     <tr><td>Oct. 6</td><td>Plotting</td><td><i>Submit</i>: Plot for in-class activity [Canvas]<br><i>Do</i>: R Bootcamp [Chapter 1]</td><td></td>
     <tr><td>Oct. 11</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3><img src="maple.png" width="3%" height = "3%"> FALL BREAK!! <img src="mapleright.png" width="3%" height = "3%"></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 7: Manipulating data</td>
@@ -42,16 +42,16 @@ This page will host the schedule of topics for the course. Please note that this
     <tr><td>Nov. 1</td><td>Experiment building</td><td></td><td></td>
     <tr><td>Nov. 3</td><td>Collecting data</td><td></td><td></td>
     <tr><td>Nov. 8</td><td>Catch up week</td><td></td><td></td>
-    <tr><td>Nov. 10</td><td>Catch up week</td><td></td><td>Assignment 6 (build and experiment - II) due</td>
+    <tr><td>Nov. 10</td><td>Catch up week</td><td></td><td>Assignment 6 (build an experiment - II) due</td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 12-13: Analyzing real data</td>
     <tr><td>Nov. 15</td><td>Analysis time</td><td></td><td></td>
     <tr><td>Nov. 17</td><td colspan = 3>Psychonomics conference (no class)</td>
     <tr><td>Nov. 22</td><td>Analysis</td><td></td><td>Assignment 7 (analyze project data) due</td>
     <tr><td>Nov. 24</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3> <img src="pumpkin.png" width="3%" height = "3%"> THANKSGIVING BREAK!! <img src="pumpkin.png" width="3%" height = "3%"></td>
-    <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 13-14: Communicating replications</td>
+    <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 14: Communicating replications</td>
     <tr><td>Nov. 29</td><td>Storytelling</td><td></td><td></td>
-    <tr><td>Dec. 1</td><td>Peer review</td><td></td><td>Assignment 8 (poster draft) due</td>
-    <tr><td>Dec. 6</td><td>Peer review contd.</td><td></td><td>Assignment 9 (peer review) due</td>
+    <tr><td>Dec. 1</td><td>Reporting science</td><td></td><td>Assignment 8 (poster draft) due</td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 15: Open science refresher</td>
+    <tr><td>Dec. 6</td><td>Peer review contd.</td><td></td><td>Assignment 9 (peer review) due</td>
     <tr><td>Dec. 8</td><td style="text-align: center;" colspan = 3>Symposia!</td>
-    <tr><td>Dec. 10</td><td>Reporting science</td><td></td><td>Assignment 10 (final report) due</td>
+    <tr><td>Dec. 10</td><td></td><td></td><td>Assignment 10 (final report) due</td>
