@@ -10,7 +10,7 @@ This page will host the schedule of topics for the course. Please note that this
         <tr>
             <th>Date</th>
             <th>Topic</th>
-            <th>Assigned materials <br> [before class]</th>
+            <th>Assigned <br> [before class]</th>
             <th>Assignments/Tasks due <br>[11.59 pm]</th> 
     <tbody>
     <tr><td>Sep. 1</td><td>Meet & greet</td><td></td><td>Pre-class survey [Canvas]</td>
