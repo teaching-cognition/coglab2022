@@ -28,7 +28,7 @@ This page will host the schedule of topics for the course. Please note that this
     <tr><td>Sep. 29</td><td>Experiment workflow</td><td><i>Read</i>: Nosek et al. (2018)<br><i>Read</i>: Pre-registration primer</td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 6: Visualizing data</td>
     <tr><td>Oct. 4</td><td>R 101</td><td>Download RStudio</td><td>Assignment 2 (build an experiment - I) due</td>
-    <tr><td>Oct. 6</td><td>Plotting</td><td><i>Submit</i>: Plot for in-class activity [Canvas]<br><i>Do</i>: R Bootcamp [Chapter 1]</td><td></td>
+    <tr><td>Oct. 6</td><td>Plotting + descriptive statistics</td><td><i>Submit</i>: Plot for in-class activity [Canvas]<br><i>Do</i>: R Bootcamp [Chapter 1]</td><td></td>
     <tr><td>Oct. 11</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3><img src="maple.png" width="3%" height = "3%"> FALL BREAK!! <img src="mapleright.png" width="3%" height = "3%"></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 7: Manipulating data</td>
     <tr><td>Oct. 13</td><td>Manipulating data</td><td><i>Do</i>: R Bootcamp [Chapter 3]</td><td>Assignment 3 (pre-registration) due </td>
