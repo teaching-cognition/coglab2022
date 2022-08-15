@@ -10,12 +10,16 @@ nav_order: 3
 
 We, as a class, will abide by the Bowdoin College Academic Honor Code. While you are encouraged to discuss ideas and thoughts with your classmates, plagiarism in writing and code will be subject to grade reductions and disciplinary action. Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
 
+## Electronic devices
+
+Most of our class time will be spent designing experiments and analyzing data. Therefore, you are expected to bring your Bowdoin Macbook to class. Please make sure that your laptop is charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class. All class time should be devoted to working on in-class activities and group projects. 
+
 ## How many classes can you miss? 
 As many as you need and as few as you possibly can. It not only benefits your learning, but benefits all of our learning to be present together in the same space (virtual or in person). Class time is designed to take advantage of our presence together.
 
 Of course, emergencies (illness or family emergencies) can and do occur. **Note**: If you are sick or experiencing symptoms of COVID-19 or monkeypox, **please stay home**. However, I would greatly appreciate that you email me if you will be missing class. 
 
-If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website.
+If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website and/or on Canvas.
 
 
 ## Late Work Policy
