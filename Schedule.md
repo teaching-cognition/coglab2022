@@ -16,10 +16,10 @@ This page will host the schedule of topics for the course. Please note that this
     <tr><td>Sep. 1</td><td>Meet & greet</td><td>Pre-class survey [Canvas]</td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 2: Replication and research design</td>
     <tr><td>Sep. 6</td><td>Why replicate?</td><td><i>Read</i>: Frank & Saxe (2012)<br><i>Read</i>: QALMRI<br><i>Do</i>: Experiment [Canvas]</td><td></td>
-    <tr><td>Sep. 8</td><td>Anatomy of an experiment</td><td><i>Form</i>: Groups<br><i>Brainstorm</i>: Project ideas<br><i>Create</i>: Github account<br></td><td></td>
+    <tr><td>Sep. 8</td><td>Anatomy of an experiment</td><td><i>Read</i>: Horchak & Garrido (2021)<i>Form</i>: Groups<br><i>Brainstorm</i>: Project ideas<br></td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 3: Designing a web experiment </td>
     <tr><td>Sep. 13</td><td>Your first webpage</td><td><i>Watch</i>: HTML 101 video<br></td><td></td>
-    <tr><td>Sep. 15</td><td>JSPsych 101</td><td><i>Read</i>: Nosek et al., 2018<br><i>Schedule</i>: Group meeting with Abhilasha</td><td>Assignment 1 (build a webpage) due</td>
+    <tr><td>Sep. 15</td><td>JSPsych 101</td><td><i>Schedule</i>: Group meeting with Abhilasha</td><td>Assignment 1 (build a webpage) due</td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 4: Experiment building</td>
     <tr><td>Sep. 20</td><td>JSPsych timeline</td><td><i>Brainstorm</i>: Study design<br></td><td></td>
     <tr><td>Sep. 22</td><td>Conditional logic</td><td><i>Brainstorm</i>: Study materials</td><td></td>
@@ -45,13 +45,13 @@ This page will host the schedule of topics for the course. Please note that this
     <tr><td>Nov. 10</td><td>Catch up week</td><td></td><td>Assignment 6 (build an experiment - II) due</td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 12-13: Analyzing real data</td>
     <tr><td>Nov. 15</td><td>Analysis time</td><td></td><td></td>
-    <tr><td>Nov. 17</td><td colspan = 3>Psychonomics conference (no class)</td>
+    <tr><td>Nov. 17</td><td colspan = 3 style="text-align: center;">Psychonomics conference (no class)</td>
     <tr><td>Nov. 22</td><td>Analysis</td><td></td><td>Assignment 7 (analyze project data) due</td>
     <tr><td>Nov. 24</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3> <img src="pumpkin.png" width="3%" height = "3%"> THANKSGIVING BREAK!! <img src="pumpkin.png" width="3%" height = "3%"></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 14: Communicating replications</td>
     <tr><td>Nov. 29</td><td>Storytelling</td><td></td><td></td>
     <tr><td>Dec. 1</td><td>Reporting science</td><td></td><td>Assignment 8 (poster draft) due</td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 15: Open science refresher</td>
-    <tr><td>Dec. 6</td><td>Peer review contd.</td><td></td><td>Assignment 9 (peer review) due</td>
-    <tr><td>Dec. 8</td><td style="text-align: center;" colspan = 3>Symposia!</td>
-    <tr><td>Dec. 10</td><td></td><td></td><td>Assignment 10 (final report) due</td>
+    <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 9 (peer review) due</td>
+    <tr><td>Dec. 8</td><td style="text-align: center;" colspan = 3></td>
+    <tr><td>Dec. 16 (tentative)</td><td></td><td></td><td>Assignment 10 (final report) due</td>
