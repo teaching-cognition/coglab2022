@@ -35,7 +35,7 @@ Welcome to CogLab! This website will host the course content and syllabi for PSY
 
 **Student/Office hours**: Wed 1-3 PM and Fri 10-11 AM
 
-You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time or [schedule an appointment]().
+You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
 
 ## What is this course about?
 
