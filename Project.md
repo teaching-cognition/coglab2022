@@ -6,7 +6,7 @@ nav_order: 4
 
 # Group project
 
-In this course, you will design a follow-up experiment based on the replication study in a group, collect and analyze data from this follow-up study, and present your findings in a poster session and via a short report. Given that this is a group assignment, you will be working with other classmates on several parts of the scientific process. This page contains important information about how to choose a topic, how to divide the work, and how your work will be evaluated.
+In this course, you will design a follow-up experiment based on a cognitive research study in a group, collect and analyze data from this follow-up study, and present your findings in a poster session and via a short report. Given that this will be a group project, you will be working with other classmates on several parts of the scientific process. This page contains important information about how to choose a topic, how to divide the work, and how your work will be evaluated.
 
 ## Choosing a follow-up study
 
