@@ -8,12 +8,16 @@ nav_order: 4
 
 The grading scale for this class is as follows:
 
-- 96-100: A
-- 90-95: A-
-- 86-89: B
-- 80-85: B-, and so on.
-
-All scores will be rounded to the nearest whole number. 
+- A:	93-100% of total points
+- A-:	90 to 92.99 
+- B+:	87 to 89.99 
+- B:	83 to 86.99
+- B-:	80 to 82.99
+- C+:	77 to 79.99
+- C:	73 to 77.99
+- C-:	70 to 72.99
+- D:	60 to 69.99
+- F:	fewer than 60%
 
 Grades will be determined based on the following rubric, which is based on emphasizing our three learning goals: 
 1. <span style="color:#508AB0">Design</span> and conduct a web-based experiment about cognition 
@@ -46,4 +50,4 @@ Grades will be determined based on the following rubric, which is based on empha
 
 ## Extra credit
 
-There will be opportunities to earn extra credits throughout the course, which will count towards your final grade. Thesea are meant to encourage your curiosity and motivate you to dedicate time and resources to parts of the course that most interest you! Extra credit opportunities will be posted alongside assignments to which they apply.
+There will be opportunities to earn extra credits throughout the course, which will count towards your final grade. These are meant to encourage your curiosity and motivate you to dedicate time and resources to parts of the course that most interest you! Extra credit opportunities will be posted alongside assignments to which they apply.

@@ -44,9 +44,9 @@ The mind is one of the biggest human puzzles, and scientific exploration of diff
 ## Why take this course? a.k.a. learning goals
 
 In addition to delving into some key aspects of cognition, my hope as an instructor is to **empower** you with an analytical toolkit that can be applied to other areas of your life. At the end of this course, you will be able to: <br>
-1. <span style="color:#508AB0">Design</span> and conduct a web-based experiment about cognition 
-2. Describe and <span style="color:#E7AC10">analyze</span> data 
-3. <span style="color:#1CB447">Communicate</span> scientific findings
+1. <span style="color:#508AB0">Design</span> and conduct a web-based experiment about cognition [Department Goal #6]
+2. Describe and <span style="color:#E7AC10">analyze</span> data [Department Goal #5]
+3. <span style="color:#1CB447">Communicate</span> scientific findings [Department Goal #7]
 
 In achieving these learning goals, we will also emphasize and adopt **open science** practices, that are central to conducting robust scientific research. 
 

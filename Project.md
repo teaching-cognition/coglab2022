@@ -23,7 +23,12 @@ Group work is hard. Therefore, to ensure that each member of the group is contri
 
 ## Grading for group project
 
-Assignments 6-10 will all be based on this group project. However, some components will be graded at the *group* level, and other components will be graded at the *individual* level. Assignments graded at the group level will be submitted by the group as a whole and will receive a single score that will apply to all group members. Assignments graded at the individual level will be submitted by you individually and will receive individual scores, that may differ across group members.
+Assignments 6-10 will all be based on this group project. However, some components will be graded at the *group* level, and other components will be graded at the *individual* level. 
+
+Assignments graded at the group level will be submitted by the group as a whole and will receive a single score that will apply to all group members. Group submissions will involve collaborating with your group members and submitting a single assignment. 
+
+Assignments graded at the individual level will be submitted by you individually and will receive individual scores, that may differ across group members. You are **not** allowed to collaborate on your individual submission, i.e., you must complete the analysis, reviewing, and writing on your own for these assignments. 
+
 
 <table>
     <thead>
