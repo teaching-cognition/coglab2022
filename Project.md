@@ -19,7 +19,7 @@ Please consult me during office hours or separate meeting times about your chose
 
 ## Assigning roles
 
-Group work is hard. Therefore, to ensure that each member of the group is contributing equally, please make sure that you assign roles for each component of the project and report these roles back to me as part of the assignment submission.
+Group work is hard. Therefore, to ensure that each member of the group is contributing equally, please make sure that you assign roles for each component of the project and report these roles back to me as part of the assignment submission. You will also be providing self and peer evaluations which will be incorporated into your final grade for Assignment 9.
 
 ## Grading for group project
 

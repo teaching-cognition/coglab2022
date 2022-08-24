@@ -8,7 +8,7 @@ This page will host the schedule of topics for the course. Please note that this
 
 # General overview
 
-In this course, we will learn how to design, analyze, and communicate the findings from a research study, through the lens of replication. During the first part of the course, we will learn how to design a web-based experiment that mirrors a recently published study on sentence processing. We will then use data collected as part of a direct replication of this study to understand the basics of descriptive and inferential statistics. Armed with these tools, in the second part of the group, we will propose and implement conceptual replications and extensions of this study, collect real behavioral data, and present findings in a poster session as well as a short report.
+In this course, we will learn how to design, analyze, and communicate the findings from a research study, through the lens of replication. During the first part of the course, we will learn how to design a web-based experiment that mirrors a recently published study on sentence processing. We will then use data collected as part of a direct replication of this study to understand the basics of descriptive and inferential statistics. Armed with these tools, in the second part of the course, we will propose and implement conceptual replications and extensions of this study, collect and analyze real behavioral data, and communicate findings in a poster session as well as through a short report.
 
 # Schedule of topics
 
@@ -60,4 +60,4 @@ In this course, we will learn how to design, analyze, and communicate the findin
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 15: Open science refresher</td>
     <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 9 (peer review) due</td>
     <tr><td>Dec. 8</td><td style="text-align: center;" colspan = 3>Symposia</td>
-    <tr><td>Dec. 16 (tentative)</td><td></td><td></td><td>Assignment 10 (final report) due</td>
+    <tr><td>Dec. 19</td><td></td><td></td><td>Assignment 10 (final report) due</td>
