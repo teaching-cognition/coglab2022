@@ -6,6 +6,12 @@ nav_order: 2
 
 This page will host the schedule of topics for the course. Please note that this is an <strong>evolving</strong> document and any changes to the syllabus will be announced in class and via Canvas announcements and will subsequently reflect on this page. Remember to <strong>refresh this page </strong> to make sure you are viewing the most recent version of the schedule. <br><br>
 
+# General overview
+
+In this course, we will learn how to design, analyze, and communicate the findings from a research study, through the lens of replication. During the first part of the course, we will learn how to design a web-based experiment that mirrors a recently published study on sentence processing. We will then use data collected as part of a direct replication of this study to understand the basics of descriptive and inferential statistics. Armed with these tools, in the second part of the group, we will propose and implement conceptual replications and extensions of this study, collect real behavioral data, and present findings in a poster session as well as a short report.
+
+# Schedule of topics
+
 <table>
         <tr>
             <th>Date</th>

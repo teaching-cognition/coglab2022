@@ -41,7 +41,7 @@ Assignments graded at the individual level will be submitted by you individually
         <tr><td>Assignment 6 (build an experiment - II)</td><td>group</td></tr>
         <tr><td>Assignment 7 (analyze project data)</td><td>individual</td></tr>
         <tr><td>Assignment 8 (poster draft + poster presentation)</td><td>group</td></tr>
-        <tr><td>Assignment 9 (peer review)</td><td>individual</td></tr>
+        <tr><td>Assignment 9 (peer review + team evaluation)</td><td>individual</td></tr>
         <tr><td>Assignment 10 (final report)</td><td>individual</td></tr>
     </tbody>
 </table>
