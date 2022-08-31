@@ -60,4 +60,4 @@ In this course, we will learn how to design, analyze, and communicate the findin
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 15: Open science refresher</td>
     <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 9 (peer review) due</td>
     <tr><td>Dec. 8</td><td style="text-align: center;" colspan = 3>Symposia</td>
-    <tr><td>Dec. 19</td><td></td><td></td><td>Assignment 10 (final report) due</td>
+    <tr><td>Dec. 14</td><td></td><td></td><td>Assignment 10 (final report) due</td>

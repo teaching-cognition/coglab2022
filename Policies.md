@@ -8,19 +8,20 @@ nav_order: 3
 
 ## Academic honesty
 
-We, as a class, will abide by the Bowdoin College Academic Honor Code. While you are encouraged to discuss ideas and thoughts with your classmates, plagiarism in writing and code will be subject to grade reductions and disciplinary action. Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
+We, as a class, will abide by the Bowdoin College Academic Honor Code. While you are encouraged to discuss ideas and thoughts with your classmates, plagiarism in writing and code will be subject to grade reductions and disciplinary action. Specifically, you are permitted to make use of online resources and/or search platforms (Google/Stack Overflow), and are permitted to discuss conceptual ideas with your classmates for assignments. However, directly copying or adapting your classmate's code or writing will be considered plagiarism. This policy applies to both individual and group assignments. 
+
+Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
 
 ## Electronic devices
 
 Most of our class time will be spent designing experiments and analyzing data. Therefore, you are expected to bring your Bowdoin Macbook to class. Please make sure that your laptop is charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class. All class time should be devoted to working on in-class activities and group projects. 
 
-## How many classes can you miss? 
+## Attendance: How many classes can you miss? 
 As many as you need and as few as you possibly can. It not only benefits your learning, but benefits all of our learning to be present together in the same space (virtual or in person). Class time is designed to take advantage of our presence together.
 
 Of course, emergencies (illness or family emergencies) can and do occur. **Note**: If you are sick with COVID-19 or monkeypox, **please stay home**. However, I would greatly appreciate that you email me if you will be missing class. 
 
 If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website and/or on Canvas.
-
 
 ## Late Work Policy
 
@@ -49,6 +50,10 @@ As a student, you may experience a range of issues that can cause barriers to le
 ## Learning Resources
 
 The [Baldwin Center for Learning and Teaching](https://www.bowdoin.edu/baldwin-center) offers peer-to-peer resources including mentors, Q-Tutors, and Writing Assistants. If you or your family are multilingual, you may also take advantage of Lisa Flanagan to work on writing and speaking assignments and projects. Tina Chong is available as an Academic Coach to work with you on goal setting, managing time, study habits and other strategies to support academic success. You are encouraged to [make an appointment](https://www.bowdoin.edu/baldwin-center/make-an-appointment/ and learn more about how the Center can support your learning.
+
+## Other resources
+
+If you are on a budget or would benefit from financial assistance of any kind at any point in the semester, I encourage you to contact your Dean and explore the [Supplemental and Emergency Funding website](https://www.bowdoin.edu/dean-of-students/resources/emergency-funding/index.html). The Office of the Dean of Students has grant and loan funds available to remove financial barriers so that students can more fully access the Bowdoin experience or to assist students with unexpected financial needs.
 
 ## Mandated Reporter
 As a faculty member, I am considered a **Responsible Employee**, per the Student Sexual Misconduct and Gender Based Violence Policy. As a Responsible Employee I am required to report disclosures of sexual misconduct, dating violence, stalking, and/or sexual and gender-based harassment to Bowdoin's Title IX Coordinator, Kate O'Grady. My reporting does NOT mean that any actions will be taken beyond Kate reaching out to you and trying to schedule a time to talk to see what assistance you might need to be successful as a student here at Bowdoin. For more information please check out [Bowdoin's Title IX page](http://www.bowdoin.edu/title-ix).
