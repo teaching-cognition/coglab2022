@@ -25,9 +25,9 @@ In this course, we will learn how to design, analyze, and communicate the findin
     <tr><td>Sep. 8</td><td>Anatomy of an experiment</td><td><i>Read</i>: Horchak & Garrido (2021)<br><i>Form</i>: Groups<br><i>Brainstorm</i>: Project ideas<br></td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 3: Designing a web experiment </td>
     <tr><td>Sep. 13</td><td>Your first webpage</td><td><i>Watch</i>: HTML 101 video<br></td><td></td>
-    <tr><td>Sep. 15</td><td>JSPsych 101</td><td><i>Schedule</i>: Group meeting with Abhilasha</td><td>Assignment 1 (build a webpage) due</td>
+    <tr><td>Sep. 15</td><td>JSPsych 101</td><td><i>Schedule</i>: Group meeting with Abhilasha</td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 4: Experiment building</td>
-    <tr><td>Sep. 20</td><td>JSPsych timeline</td><td><i>Brainstorm</i>: Study design<br></td><td></td>
+    <tr><td>Sep. 20</td><td>JSPsych timeline</td><td><i>Brainstorm</i>: Study design<br></td><td>Assignment 1 (build a webpage) due</td>
     <tr><td>Sep. 22</td><td>Conditional logic</td><td><i>Brainstorm</i>: Study materials</td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 5: Recording data & all that</td>
     <tr><td>Sep. 27</td><td>Where's the data?</td><td></td><td></td>
