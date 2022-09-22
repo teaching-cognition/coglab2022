@@ -28,7 +28,7 @@ In this course, we will learn how to design, analyze, and communicate the findin
     <tr><td>Sep. 15</td><td>JSPsych 101</td><td><i>Schedule</i>: Group meeting with Abhilasha</td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 4: Experiment building</td>
     <tr><td>Sep. 20</td><td>JSPsych timeline</td><td><i>Brainstorm</i>: Study design<br></td><td>Assignment 1 (build a webpage) due</td>
-    <tr><td>Sep. 22</td><td>Conditional logic</td><td><i>Brainstorm</i>: Study materials</td><td></td>
+    <tr><td>Sep. 22</td><td>Condition logic</td><td><i>Brainstorm</i>: Study materials</td><td></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 5: Recording data & all that</td>
     <tr><td>Sep. 27</td><td>Where's the data?</td><td></td><td>Project action plan due <br>(Sep 26)</td>
     <tr><td>Sep. 29</td><td>Experiment workflow</td><td><i>Read</i>: Nosek et al. (2018)<br><i>Read</i>: Pre-registration primer</td><td></td>
