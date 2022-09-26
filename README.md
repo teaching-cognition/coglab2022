@@ -33,7 +33,7 @@ Welcome to CogLab! This website will host the course content and syllabi for PSY
 
 **Office**: Kanbar Hall, Room 217 <br>
 
-**Student/Office hours**: Wed 1-3 PM and Fri 10-11 AM
+**Student/Office hours**: Tue 10-11.15 AM, Tue 4.15-5 PM, Fri 10 AM-1 PM
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
 
