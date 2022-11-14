@@ -51,13 +51,14 @@ In this course, we will learn how to design, analyze, and communicate the findin
     <tr><td>Nov. 10</td><td>Catch up week</td><td></td><td>Assignment 6 (build an experiment - II) due</td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 12-13: Analyzing real data</td>
     <tr><td>Nov. 15</td><td>Analysis time</td><td></td><td></td>
-    <tr><td>Nov. 17</td><td colspan = 3 style="text-align: center;">Psychonomics conference (no class)</td>
+    <tr><td>Nov. 17</td><td colspan = 3 style="text-align: center;">Psychonomics conference (virtual class)</td>
     <tr><td>Nov. 22</td><td>Analysis</td><td></td><td>Assignment 7 (analyze project data) due</td>
     <tr><td>Nov. 24</td><td style="text-align: center; vertical-align: middle;background-color:#FFFFFF" colspan = 3> <img src="pumpkin.png" width="3%" height = "3%"> THANKSGIVING BREAK!! <img src="pumpkin.png" width="3%" height = "3%"></td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 14: Communicating replications</td>
     <tr><td>Nov. 29</td><td>Storytelling</td><td></td><td></td>
     <tr><td>Dec. 1</td><td>Reporting science</td><td></td><td>Assignment 8 (poster draft) due</td>
     <tr><td style="text-align: center; vertical-align: middle;background-color:#E5E4E2" colspan = 4>Week 15: Open science refresher</td>
-    <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 9 (peer review) due</td>
+    <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 9 (final analyses) due</td>
     <tr><td>Dec. 8</td><td style="text-align: center;" colspan = 3>Symposia</td>
-    <tr><td>Dec. 14</td><td></td><td></td><td>Assignment 10 (final report) due</td>
+    <tr><td>Dec. 6</td><td>Peer review</td><td></td><td>Assignment 10 (peer review) due</td>
+    <tr><td>Dec. 14</td><td></td><td></td><td>Assignment 11 (final report) due</td>
