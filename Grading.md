@@ -6,7 +6,7 @@ nav_order: 3
 
 # Grading
 
-The grading scale for this class is as follows:
+The gradingdy scale for this class is as follows:
 
 - A:	93-100% of total points
 - A-:	90 to 92.99 
