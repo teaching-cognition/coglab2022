@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>coglab - QALMRI Tutorial</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0PT8LKEC0K"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="coglab - QALMRI Tutorial">
+<meta property="og:description" content="This page consists resources for writing QALMRIs.">
+<meta property="og:site-name" content="coglab">
+<meta name="twitter:title" content="coglab - QALMRI Tutorial">
+<meta name="twitter:description" content="This page consists resources for writing QALMRIs.">
+<meta name="twitter:creator" content="@abhilashaakumar">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-sidebar floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logobar.png" alt="" class="navbar-logo">
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="../../index.html" aria-current="page">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/syllabus.html">
+ <span class="menu-text">Syllabus</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/syllabus.html#course-schedule">
+ <span class="menu-text">Schedule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/modules.html">
+ <span class="menu-text">Modules</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/QALMRI.html">
+ <span class="menu-text">QALMRI</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../articles/course_docs/resources.html">
+ <span class="menu-text">Additional Resources</span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">QALMRI Tutorial</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="../../index.html" class="sidebar-logo-link">
+      <img src="../../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W1_Getting_Started.html" class="sidebar-item-text sidebar-link">W1: Getting Started</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W2_Replication_Design.html" class="sidebar-item-text sidebar-link">W2: Replication and Design</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W3_Anatomy.html" class="sidebar-item-text sidebar-link">W3: Experiment Anatomy</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W4_jsPsych.html" class="sidebar-item-text sidebar-link">W4: jsPsych</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W5_timeline.html" class="sidebar-item-text sidebar-link">W5: Experiment Timeline</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W6_Data.html" class="sidebar-item-text sidebar-link">W6: Recording Data</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W7_Workflow.html" class="sidebar-item-text sidebar-link">W7: Experiment Workflow</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W8_Visualize.html" class="sidebar-item-text sidebar-link">W8: Visualize Data</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W9_Manipulate.html" class="sidebar-item-text sidebar-link">W9: Manipulate Data</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W10_Infer.html" class="sidebar-item-text sidebar-link">W10: Making Inferences</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W11_13.html" class="sidebar-item-text sidebar-link">Weeks 11-13: Project Work</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W14_Odds_Ends.html" class="sidebar-item-text sidebar-link">W14: Odds and Ends</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../articles/modules/W15_Wrap.html" class="sidebar-item-text sidebar-link">W15: Wrapping Up!</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#finding-a-paper" id="toc-finding-a-paper" class="nav-link active" data-scroll-target="#finding-a-paper">Finding a paper</a></li>
+  <li><a href="#anatomy-of-a-primary-research-article" id="toc-anatomy-of-a-primary-research-article" class="nav-link" data-scroll-target="#anatomy-of-a-primary-research-article">Anatomy of a primary research article</a></li>
+  <li><a href="#what-does-qalmri-stand-for" id="toc-what-does-qalmri-stand-for" class="nav-link" data-scroll-target="#what-does-qalmri-stand-for">What does QALMRI stand for?</a></li>
+  <li><a href="#writing-a-qalmri-summary" id="toc-writing-a-qalmri-summary" class="nav-link" data-scroll-target="#writing-a-qalmri-summary">Writing a QALMRI summary</a></li>
+  <li><a href="#example-qalmri" id="toc-example-qalmri" class="nav-link" data-scroll-target="#example-qalmri">Example QALMRI</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/teaching-cognition/coglab/edit/main/articles/course_docs/QALMRI.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/teaching-cognition/coglab/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">QALMRI Tutorial</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>This page consists resources for writing <a href="#the-qalmri-method">QALMRI</a>s.</p>
+<p>You will write QALMRIs for your final project. This page is intended to help you understand the elements of a good and thorough QALMRI.</p>
+<p><strong>Acknowledgement</strong>: The QALMRI method was first introduced by:</p>
+<blockquote class="blockquote">
+<p>Kosslyn, S. M., &amp; Rosenberg, R. S. (2001). Psychology: The Brain, The Person, The World. Boston: Allyn &amp; Bacon</p>
+</blockquote>
+<p>The description of the QALMRI method below is from <a href="https://crumplab.com/people/matt_crump.html">Dr.&nbsp;Matthew J. C. Crump</a>’s textbook:</p>
+<blockquote class="blockquote">
+<p>Matthew J. C. Crump. (2021). Instances of Cognition: Questions, Methods, Findings, Explanations, Applications, and Implications. https://crumplab.com/cognition/textbook</p>
+</blockquote>
+<p>QALMRI is an acronym for critical parts of research articles. It stands for Question, Alternatives, Logic, Method, Results, and Inference. This section demonstrates using QALMRI as a guide for reading a primary research article. QALMRI can also be used as an activity or assignment, and an example of a QALMRI assignment is given at the end.</p>
+<section id="finding-a-paper" class="level3">
+<h3 class="anchored" data-anchor-id="finding-a-paper">Finding a paper</h3>
+<p>The first step is to find a primary research article to read. To demonstrate QALMRI, I chose a paper from my own research. The article is titled, “Warning: this keyboard will deconstruct – The role of the keyboard in skilled typewriting”. This paper was published in the journal Psychonomic Bulletin and Review in 2010 and can be <a href="https://link.springer.com/article/10.3758/PBR.17.3.394">freely downloaded as a pdf here</a>.</p>
+<p>Before continuing, I suggest you download the paper and give it a quick glance. It it is only 5 pages long.</p>
+</section>
+<section id="anatomy-of-a-primary-research-article" class="level3">
+<h3 class="anchored" data-anchor-id="anatomy-of-a-primary-research-article">Anatomy of a primary research article</h3>
+<p>The paper you just downloaded is an example of a primary research article. The pieces of different research articles are very similar. For example, this one has a title, an abstract, an introduction, methods and results sections for two experiments, a general discussion, and references. Most research papers have similar components:</p>
+<ul>
+<li><p>Title: The concise title captures the main focus of the study.</p></li>
+<li><p>Abstract: The brief summary provides an overview of the research objectives, methods, key findings, and significance.</p></li>
+<li><p>Introduction: This section presents background information, previous research, and identifies gaps in knowledge.</p></li>
+<li><p>Methods: The section describes the study design, sample size, data collection procedures, and statistical analysis methods.</p></li>
+<li><p>Results: The findings of the study are presented objectively, using data tables, figures, or graphs.</p></li>
+<li><p>General Discussion: This section interprets the results, discusses implications, limitations, and future research directions.</p></li>
+<li><p>References: A list of cited sources, following a specific citation format, allows readers to access the cited works.</p></li>
+</ul>
+<p>By adhering to this structure, a primary research article ensures clarity, transparency, and replicability, enabling evaluation of the study’s validity and significance.</p>
+<p>Research papers are often written for a technical audience, which refers to other researchers who are already familiar with the domain. As a result, students may find it challenging to extract and comprehend major points of research articles. We will use QALMRI as an aid to help you identify and comprehend the components of a research paper.</p>
+</section>
+<section id="what-does-qalmri-stand-for" class="level3">
+<h3 class="anchored" data-anchor-id="what-does-qalmri-stand-for">What does QALMRI stand for?</h3>
+<section id="q-stands-for-question" class="level4">
+<h4 class="anchored" data-anchor-id="q-stands-for-question">Q stands for Question</h4>
+<p>Researchers ask and answer research questions. So, your first task is to identify what questions are being asked in the research article. Research questions are usually stated in the abstract or the introduction, and sometimes they are restated near the beginning of the general discussion.</p>
+<p>You may notice many different kinds of questions being stated in a research paper. It is helpful to distinguish between <strong>broad questions</strong> and <strong>specific questions</strong>. A single research paper is rarely capable of answering very broad questions, but it may have answered a specific question.</p>
+<p>The paper you downloaded is about cognitive abilities mediating skilled typewriting on a computer keyboard. This topic is associated with many broad questions. For example, how do people control their own body movements? How do people learn to type without thinking about what their fingers are doing? How do people learn skills? How do people learn language? All of these questions are too big for a single research paper to answer.</p>
+<p>The paper also asks specific questions. The overarching specific question is about how the feeling of the keyboard influences typing performance. People can type on keyboards with keys, or on flat surfaces without keys. How does tactile feedback from the keyboard influence typing performance?</p>
+</section>
+<section id="a-stands-for-alternatives" class="level4">
+<h4 class="anchored" data-anchor-id="a-stands-for-alternatives">A stands for Alternatives</h4>
+<p>Experimental research in cognition is often designed to test alternative explanations or hypotheses about a cognitive ability. When reading a paper you should attempt to identify the alternative explanations or hypotheses being discussed. Note also, sometimes a paper may only discuss one alternative hypothesis. More important, the alternative or hypothesis should contain an implication that can be tested later on.</p>
+<p>The example paper has two major alternative ideas about cognitive processes in typing behavior. Both alternatives provide ideas about how people are able to move their fingers to individual keys very quickly and accurately, even without looking at the keyboard.</p>
+<p>One possibility is that people have an internal cognitive map of the keyboard. The cognitive map represents the location of the keys on a computer, and typists may use this internal “mind” map to direct their fingers to appropriate locations while typing. An implication of the cognitive map idea is that typists may not need to rely on the feeling or touch of a keyboard in order to type quickly and accurately. Instead, their fingers can move to each key based entirely on directions from the internal map.</p>
+<p>An alternative possibility is that people do not use an internal map of the keyboard. Instead, people may learn associations between the finger movements required for each keystroke and they way they feel (tactile, haptic, and proprioceptive feedback). An implication of this idea is that feeling the keyboard may be an important component of typing skill, especially for typists who learned to type on keyboards with keys.</p>
+</section>
+<section id="l-stands-for-logic" class="level4">
+<h4 class="anchored" data-anchor-id="l-stands-for-logic">L stands for Logic</h4>
+<p>The logic of the alternatives or hypotheses is nearly identical to the hypotheses themselves, but more formally stated in terms of if/then statements. Here are two example logic statements for each of the alternatives discussed above:</p>
+<p>IF typists use an internal cognitive map that does not require feedback from the keyboard to guide their fingers, THEN typing performance should not be influenced by manipulations that remove tactile feedback, such as typing on keys vs a flat surface.</p>
+<p>IF typists use feedback from the keyboard to guide their fingers, THEN typing performance should be influenced by manipulations that remove tactile feedback, such as typing on keys vs a flat surface.</p>
+</section>
+<section id="m-stands-for-method" class="level4">
+<h4 class="anchored" data-anchor-id="m-stands-for-method">M stands for Method</h4>
+<p>The method refers to the tools used to answer the research questions. More specifically, the method will usually be carefully designed to test the logical implications of the alternative explanations. In experimental research, the method will involve at least one independent variable or manipulation, and at least one dependent variable or measurement.</p>
+<p>In our example, the method involved having skilled typists copy text while they were typing on keyboards with different surfaces, that provided less and less tactile feedback. The primary manipulation had four levels, and involved changing the feeling of the keyboard: there was a regular keyboard, a rubber button keyboard, a flat surface keyboard, and a laser projection keyboard. Measurements of typing performance (keystroke typing times and accuracy) were collected for each typist as they typed words on each keyboard.</p>
+</section>
+<section id="r-stands-for-results" class="level4">
+<h4 class="anchored" data-anchor-id="r-stands-for-results">R stands for Results</h4>
+<p>The results are a final product of the research cycle. A given research article may present many results depending on the complexity of the method. In general, the results refer to an analysis of whether the experimental manipulation influenced the measurements.</p>
+<p>In our example, typing performance was measured for four different keyboards. Results were reported in a graph and showing different measures of typing performance, such as reaction time (time to start typing a word), inter-keystroke interval (time between keystrokes), and error rate. The major result was that typing performance WAS influenced by the keyboard manipulation. Typists were fastest and most accurate on a regular keyboard, and always slower and less accurate on the keyboards with less tactile feedback.</p>
+</section>
+<section id="i-stands-for-inferences" class="level4">
+<h4 class="anchored" data-anchor-id="i-stands-for-inferences">I stands for Inferences</h4>
+<p>Inferences may be the most important product of a research project. Inferences connect the results back to the original research questions. So, what inferences about the alternative explanations under investigation can we draw based on the results of the research? Inferences are possible if the methods do a good job of testing the logic of the alternatives.</p>
+<p>In our example, the logic of the internal keyboard map idea suggested that manipulations to the feeling of the keyboard should not influence typing performance. However, the results of the study showed that reducing tactile feedback from the keyboard causes slower and more error-prone typing. So, one inference from the study could be that typists do not rely upon an internal map of the keyboard.</p>
+</section>
+</section>
+<section id="writing-a-qalmri-summary" class="level3">
+<h3 class="anchored" data-anchor-id="writing-a-qalmri-summary">Writing a QALMRI summary</h3>
+<p>Writing a QALMRI for any research paper (one that you are writing, or one that you are reading) involves writing short answers to each of the QALMRI points using clear and concise language. It is a condensed, short-form, version of the research. Your task is to answer these questions:</p>
+<ul>
+<li><p>Question: What was the broad question? What was the specific question?</p></li>
+<li><p>Alternative hypotheses: What were the hypotheses?</p></li>
+<li><p>Logic: If hypothesis 1 was true, what was the predicted outcome? What was the predicted outcome if hypothesis 2 was true?</p></li>
+<li><p>Method: What was the experimental design?</p></li>
+<li><p>Results: What was the pattern of data?</p></li>
+<li><p>Inferences: What can be concluded about the hypotheses based on the data? What can be concluded about the specific and broad question? What are the next steps?</p></li>
+</ul>
+</section>
+<section id="example-qalmri" class="level3">
+<h3 class="anchored" data-anchor-id="example-qalmri">Example QALMRI</h3>
+<p>Even if you haven’t read the article, reading a QALMRI should provide you with enough information to get a basic idea of what the article was about. The following QALMRI summarizes our example article by Crump &amp; Logan (2010).</p>
+<section id="what-was-the-broad-and-specific-question" class="level4">
+<h4 class="anchored" data-anchor-id="what-was-the-broad-and-specific-question">What was the broad and specific question?</h4>
+<p>The broad questions are about spatial cognition. How do people understand and represent the spatial relationships between objects in the environment? Do people have “spatial maps” in their head?</p>
+<p>The specific question is how do typists know where the keys are on the QWERTY keyboard?</p>
+</section>
+<section id="what-are-the-alternatives" class="level4">
+<h4 class="anchored" data-anchor-id="what-are-the-alternatives">What are the alternatives?</h4>
+<ol type="1">
+<li><p>Typists have an internal cognitive spatial map of the keyboard that they use to guide their fingers during typing</p></li>
+<li><p>Typists do not have a map-like representation, instead they rely on learned associations between cues such as the feel of the keyboard to guide their fingers during typing</p></li>
+</ol>
+</section>
+<section id="what-is-the-logic" class="level4">
+<h4 class="anchored" data-anchor-id="what-is-the-logic">What is the logic?</h4>
+<ol type="1">
+<li><p>If typists have an internal map of the keyboard, then they should be able to guide their fingers to correct locations based on the map alone and no feedback from the environment. For example, if we could measure “air-typing” without a keyboard, then typists should still be able to put their fingers in the correct locations even when the keyboard is missing because they are relying on their internal map.</p></li>
+<li><p>If typists do not use an internal map of the keyboard, then their finger movements should become slow and inaccurate when they try to type without a keyboard, or in other conditions that change the normal feel of the keyboard, and thereby remove the cues that typists use to direct their fingers.</p></li>
+</ol>
+</section>
+<section id="what-is-the-method" class="level4">
+<h4 class="anchored" data-anchor-id="what-is-the-method">What is the Method?</h4>
+<p>Typists copied paragraphs in four conditions that manipulated tactile (touching) feedback from the keyboard. They typed on a normal keyboard, a keyboard with the keys removed exposing the rubber buttons underneath, a flat circuit board without, and on a flat table with a laser projection keyboard.</p>
+</section>
+<section id="results" class="level4">
+<h4 class="anchored" data-anchor-id="results">Results</h4>
+<p>Typists were fast and accurate in the normal keyboard condition. Typists were slow and inaccurate in all of the other keyboard conditions, where normal tactile feedback was removed.</p>
+</section>
+<section id="inference" class="level4">
+<h4 class="anchored" data-anchor-id="inference">Inference</h4>
+<p>The results are <em>not consistent</em> with the internal map hypothesis. If typists had an internal map, and did not rely on tactile cues, then they should have typed normally even when the cues were removed. The results are consistent with learned association hypothesis, that typists rely on cues, like the feel of the keyboard, that are associated with particular key locations.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>   
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../../LICENSE.md">License</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>

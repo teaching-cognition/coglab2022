@@ -1,0 +1,118 @@
+---
+title: "W5: Experiment Timeline"
+description: "This is the module for Week 4. We will learn how to start building different parts of an experiment using the platform jsPsych."
+author: "Abhilasha Kumar"
+date-modified: last-modified
+opengraph:
+  twitter:
+    card: summary_large_image
+    creator: "@abhilashaakumar"
+order: 4
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Discuss basic syntax of jsPsych and connect it to HTML
+- Introduce jsPsych plugins
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Tuesday
+
+Please complete the following BEFORE class:
+
+- TBD
+
+### Thursday
+
+Please complete the following BEFORE class:
+
+- TBD
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following (on Canvas):
+
+- Week 4 Quiz
+- Project Milestone 3 (Anatomy)
+
+::::
+:::
+
+
+::::
+:::::

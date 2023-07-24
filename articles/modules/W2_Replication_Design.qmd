@@ -1,0 +1,128 @@
+---
+title: "W2: Replication and Design"
+description: "This is the module for Week 2. We will discuss the value of replication in science and review some basic research design principles that will be relevant for this course."
+author: "Abhilasha Kumar"
+date-modified: last-modified
+opengraph:
+  twitter:
+    card: summary_large_image
+    creator: "@abhilashaakumar"
+order: 1
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Goals
+
+- Discuss the open science movement and the replication crisis
+- Review research methods and design principles
+
+## Instructions 
+
+Work through each of the following Prep, Try, and Apply sections. Please note that all assigned readings will be available on Canvas, and any submissions should also be made directly on Canvas.
+
+## Prep 
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/prep.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+### Tuesday
+
+Please complete the following BEFORE class:
+
+- Complete the experiment using the link on Canvas
+- Read the paper (PDF on Canvas): 
+
+>> Frank, M. C., & Saxe, R. (2012). Teaching replication. Perspectives on Psychological Science, 7(6), 600-604.
+
+
+### Thursday
+
+Please complete the following BEFORE class:
+
+- Read the paper (PDF on Canvas): 
+
+>> Savic, O., Unger, L., & Sloutsky, V. M. (2022). Exposure to co-occurrence regularities in language drives semantic integration of new words. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 48</i>(7), 1064.
+
+::::
+:::
+::::
+:::::
+
+## Try {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/try.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+### Slides
+
+Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
+
+<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
+
+
+::::
+:::
+
+
+::::
+:::::
+
+## Apply {.mt-5}
+
+:::::{.card .border .border-2 .border-info}
+:::: {.grid .g-0}
+::: {.g-col-3}
+:::: {.card-body}
+
+```{r, echo=FALSE,fig.align='center'}
+knitr::include_graphics("imgs/apply.png")
+```
+
+::::
+:::
+
+::: {.g-col-9}
+:::: {.card-body}
+
+This week, you will be submitting the following (on Canvas):
+
+- Week 2 Quiz
+- Project Milestone 1 (Team Plan + Articles)
+- Optional Meme
+::::
+:::
+
+
+::::
+:::::

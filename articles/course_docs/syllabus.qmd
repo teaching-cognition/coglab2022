@@ -1,0 +1,297 @@
+---
+title: "Syllabus"
+---
+
+## Lab in Cognitive Science (PSYC 2740)
+
+Welcome! This page hosts the syllabus for PSYC 2740
+
+### Basic Course Information
+
+**Course number**: PSYC 2740<br>
+**Semester**: Fall 2023 </u><br>
+**When**: Tuesdays & Thursdays, 10.05-11.30 AM<br>
+**Where**: Roux Center for the Environment 302 <br>
+**Website**: You are here!<br>
+**Pre-requisites**: Three of:<br>
+
+- either PSYC 2040 or PSYC 2060 (same as NEUR 2060) or PSYC 2055 (same as NEUR 2055)
+- PSYC 2510
+- PSYC 2520 (Concurrent Registration Allowed)
+
+### Who is your instructor?
+
+<img width = "30%" height = "auto" src = "../../images/kumar.png"><br>
+**Abhilasha Kumar**: <a href="https://www.name-coach.com/abhilasha-kumar" target="_blank">Hear my name!</a><br>
+**Pronouns**: she/her
+
+**About me**: I am a cognitive scientist who is fascinated by how humans think, learn, and communicate. My [work](https://thelexiconlab.github.io/research/) involves conducting psychological experiments to understand different aspects of human behavior such as how we learn the meaning of words, how we search for information, and how we cooperate with one another. When I am not working, I enjoy playing board games, learning new recipes, and playing tennis (badly)! <br>
+
+**Email**: a.kumar\@bowdoin.edu
+
+**Office**: Kanbar Hall, Room 217
+
+### Who is your learning assistant?
+
+TBD
+
+### Student/Office Hours 
+
+**Abhilasha's office hours (Kanbar 217)**: <br>
+
+- TBD
+
+**LA's office hours (Kanbar 200)**<br>
+
+- TBD
+
+You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with me. If the designated hours don't work for you, please email me to find a different time.
+
+### What is this course about?
+
+The mind is one of the biggest human puzzles, and scientific exploration of different aspects of the mind is the central goal of cognitive science. This lab course will expose you to modern techniques used in cognitive science that can be applied to the study of cognition. Together, we will learn how to develop a research question, conceptualize scientific experiments from start to finish, analyze experimental data, and communcate important insights about human cognition.
+
+### Why take this course? a.k.a. learning goals
+
+In addition to delving into some key aspects of cognition, my hope as an instructor is to **empower** you with an analytical toolkit that can be applied to other areas of your life. At the end of this course, you will be able to: <br>
+
+1. <span style="color:#508AB0">Design</span> and conduct a web-based experiment about cognition [Department Goal #6]
+2. Describe and <span style="color:#E7AC10">analyze</span> data [Department Goal #5]
+3. <span style="color:#1CB447">Communicate</span> scientific findings [Department Goal #7]
+
+### Course materials
+
+All of the course materials will be available in a timely fashion on this course website and/or posted on Canvas. 
+
+**Students do not need to purchase or download any textbook - all materials will be made available (or are already available) on this course website or on Canvas**
+
+### Course structure
+
+There are 15 total weeks in this course. In this course, we will learn how to design, analyze, and communicate the findings from a research study, through the lens of replication. We will learn how to design a web-based experiment that mirrors a recently published study on learning new words. We will then use data collected as part of a direct replication of this study to understand the basics of descriptive and inferential statistics. Armed with these tools, we will propose and implement conceptual replications and extensions of this study, collect and analyze real behavioral data, and communicate findings in a poster session as well as through a short report.
+
+This is an **in-person** class, and students are expected to attend all class sessions.
+
+
+### Weekly module structure
+
+Weekly learning modules include three components to encourage engagement with the domain of intelligence in different ways.
+
+**PREP**: Most modules either have assigned readings or surveys/experiments. All material is freely available and posted on Canvas or the course website. Student are expected to complete the assigned material **before** classes where the material is discussed. 
+
+**TRY**: At the end of each week, there will be a short online quiz where students will be expected to answer questions about the content covered during the week. These quizzes are meant to help you keep track of your progress and will count towards your final grade.
+
+**APPLY**: At the end of each week or every other week, you will also have some formative assignments or project milestones due. These assignments will help you build on the skills you learn in class and review through the quiz, and apply them to actual tasks and problems you may encounter in psychological research. 
+
+
+## Course Schedule
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
+#library(data.table)
+library(readxl)
+Lectures <- read_excel("coglab_2023_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
+Lectures$Week <- as.character(Lectures$Week)
+Lectures[is.na(Lectures)] <- " "
+knitr::kable(Lectures)
+
+```
+
+## Grading
+
+The grading scale for this class is as follows:
+
+| Letter grade | Points       |
+|:-------------|:------------|
+| A            | 95 - 100+    |
+| A-           | 90 - 94.99  |
+| B+           | 87 - 89.99  |
+| B            | 83 - 86.99 |
+| B-           | 80 - 82.99    |
+| C+           | 77 - 79.99 |
+| C            | 73 - 77.99    |
+| C-           | 70 - 72.99   |
+| D            | 60 - 69.99 |
+| F            | fewer than 60%     |
+
+Grades will be determined based on the following rubric, which is based on emphasizing our [three learning goals](#why-take-this-course-a.k.a.-learning-goals) (<span style="color:#508AB0">Design</span>, <span style="color:#E7AC10">Analyze</span> and <span style="color:#1CB447">Communicate</span>)
+
+There are multiple ways for students to engage with class and course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
+
+### Points
+
+| Component        | Points  | 
+|:------------------|:-------| 
+| [Weekly quizzes](#weekly-quizzes-25-points) |     25  | 
+| [Formative assignments](#formative-assignments-30-points)      |      30  | 
+| [Final project](#final-project-40-points)     |       40 | 
+| [Class participation](#class-participation-5-points)      |      5  | 
+| [Extra credit](#extra-credit-5-points) | 5 |  
+|           Total        |   105     |     |
+
+
+### Weekly Quizzes (25 points)
+
+At the end of each weekly module, there will be a quiz that covers the content discussed in class through multiple-choice or true-false questions. You may take the quiz as many times as you'd like, but your average score will be recorded, i.e., if you get a really low score on the first attempt, it will impact your overall score even if you score 100% on the later attempt(s). Therefore, you are encouraged to review the weekly content before you attempt the quiz.
+
+Overall, these quizzes contribute 25 points towards your final grade, but each quiz will be graded for 5 points and then scaled to total up to 25 points at the end of the semester.
+
+Please note that all assignments **must** be submitted before the due date each week (details on Canvas) to count towards the final grade - late submissions will NOT be accepted (unless you are using a flex day, see [late work policy](#late-work-policy)).
+
+### Formative Assignments (30 points)
+
+At different points during the semester, there will be 3 formative assignments that will help you assimilate the information you learn in class and through quizzes, and apply them in new contexts. These assignments will require you to adapt or write simple code to build parts of an experiment, test different aspects of design, or describe, manipulate, or infer statistics from data.  
+
+Overall, these formative assignments contribute 30 points towards your final grade, with each assignment being worth 10 points each. 
+
+**Note**: Making mistakes is part of the learning process. To incentivize correcting your mistakes on your formative assignments, you will be allowed to redo ONLY formative assignments any number of times to regain 50% of the points you lost, if you submit a revision **within a week** of receiving the previous points. For example, on a 10 point assignment, if you scored 7 points, and want to improve your score, you can resubmit your assignment within a week of when you received it, and you may earn back 50% of the 3 points you lost, i.e., 1.5 points. However, please weigh the costs of redoing the assignment against how many points you may be able to earn back. The last date to turn in assignment redos is December 18, 11.59 pm.
+
+### Final Project (40 points)
+
+In this course, you will design a follow-up experiment based on a cognitive research study in a group, collect and analyze data from this follow-up study, and present your findings in a poster session and via a short report. Given that this will be a group project, you will be working with other classmates on several parts of the scientific process. 
+
+Groups will be assigned in the first or second week of class based on student interests and schedule compatibility.
+
+#### Milestones 
+
+There will be several formative low-stakes milestones during the semester to ensure you are making steady progress towards the final project. Due dates for these milestones are available on Canvas. The breakdown of how the milestones contribute to your final project grade is below:
+
+| Milestone | Points       |
+|:-------------|:------------|
+| 1: Team plan + articles            | 2 |
+| 2: QALMRI + proposal               | 2 |
+| 3: Anatomy                         | 1 |
+| 4: Design draft                    | 1 |
+| 5: Full Experiment                 | 5 |
+| 6: Pre-registration                | 5 |
+| 7: Inferential Analyses            | 5 |
+| 8: Poster draft                    | 2 |
+| 9: Poster presentation             | 2 |
+| 10: Final report                    | 5 |
+| 11: Team skills                     | 5 |
+| **Total**                           | 40 |
+
+##### Milestone 1: Team Plan + Articles (2 points)
+
+This assessment will happen relatively early in the semester. You will be expected to submit a document where you have discussed a plan for your project as well as selected some preliminary articles that you will be reading to develop the idea for your study.
+
+##### Milestone 2: QALMRI + proposal
+
+This assessment will help you consolidate your ideas and research into an informal research proposal. You will first write QALMRIs for 6 research articles that your team has collectively read and reviewed, and then based on the QALMRIs, submit a jointly written 5-page literature review and proposal for your study. Note that your study must be a conceptual extension of the main study we will be replicating in class. 
+
+##### Milestone 3: Anatomy
+
+This assessment will help you understand the concrete elements of your research design. You will be required to submit a detailed mock-up of your experiment, including the stimuli and phases that you envision your experiment to contain. 
+
+##### Milestone 4: Design Draft
+
+This assessment is intended to help you put your ideas into practice. You will be required to submit code where you have implemented your experiment in jsPsych/HTML. This is a low-stakes assignment, where you will be provided feedback if you are running into issues. 
+
+##### Milestone 5: Full Experiment
+
+For this assessment, you will consolidate all the feedback from the previous milestone and submit the code for a nearly-final online experiment. At this point, you should have ironed out all the kinks in your design and your experiment should be ready for data collection.
+
+##### Milestone 6: Pre-registration
+
+In this assessment, you will submit a pre-registration draft where you will clearly outline your hypotheses and planned analyses for your study. This draft will be reviewed by me, and you will actually pre-register your study after my approval.
+
+##### Milestone 7: Analyses
+
+In this assessment, you will be required to compute some basic descriptive statistics from the data you have collected from your experiment and submit R code. You will also be expected to conduct statistical analyses and examine whether the data you have collected support your predictions and hypotheses. The goal is to get your comfortable with gleaning patterns and making inferences from real-world data. 
+
+##### Milestone 8: Poster Draft
+
+Using all the work you have done so far, you will now create a visually appealing poster draft that you will present in a poster symposium at the end of the semester. Your poster should deliver all the information a third observer will need to understand your study. You will be provided feedback on this draft.
+
+##### Milestone 9: Poster Presentation
+
+At the end of the semester, all groups will present their poster to the Psychology department through a poster symposium. Your final poster and presentation skills will be observed and you will be expected to communicate your findings effectively to the audience.
+
+##### Milestone 10: Final Report
+
+Although all previous milestones will be graded on a group level, you will submit an individually written final report that combines your literature review, methods, and results into a coherent story and presents all the information in a short APA-style report.
+
+##### Milestone 11: Team Skills
+
+No submission is required for this milestone. For each previous milestone, you will submit self and peer evaluations, and your grade for this milestone will be calculated by averaging all the scores you have received from your teammates during the semester.
+
+### Class participation (5 points)
+
+Students are encouraged to participate during class by responding to and reflecting on the course content, as well as engaging with other students via activities and group work. Your attendance will also count for some part of your class participation.
+
+Overall, here is a breakdown of how class participation will be assessed:
+
+| Component        | Points |    
+|:------------------|-------:|
+| In-class participation and/or attending office hours |     3 |
+| Attendance (attending 90% of classes)     |      2 |
+|                   |     5   |    
+
+In-class participation will be assessed based on how engaged you are in or outside class - this does not mean that you need to talk in each class or come to office hours every week, but I will be looking for engagement via participating in in-class activities, asking questions, volunteering answers, etc. on an *overall* basis.
+
+Attendance will be taken for each class and you will get full credit if you attend at least 90% of the class sessions. Beyond that, you will be assigned partial credit based on the number of classes you miss, i.e., 1 point will be deducted for each 10% drop in attendance (e.g., if you attend 80% of the classes, you will earn 4 points out of 5, if you attend 70% of the classes, you will earn 3 points out of 5, etc.)
+
+### Extra credit (5 points)
+
+There will be some opportunities to earn extra credit during the semester. These opportunities are described below:
+
+1. <u>Complete class surveys (2 points) </u>: There will be 4 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey, all other surveys will be anonymous, and you will be able to earn 0.5 point for each survey you complete. 
+
+3. <u> Win Star Coder (1 point)</u>: You will submit 4 formative coding assignments during the semester. The two students who score the combined highest score on these assignments will earn 1 extra credit each.
+
+2. <u> Win Team Player (1 point) </u>: For each project milestone, your teammates will  submit self and peer evaluations based on how the work was divided among the team members. The two students who receive the overall highest peer evaluation score at the end of the semester will earn 1 extra credit each.
+
+4. <u> Win Memer of the Semester (1 point) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will both receive 1 additional point. **Note**: A student can only receive a maximum of 1 point through this mechanism, even if the same student has the highest average score in the context *and* the best scoring meme.
+
+## Course Policies
+
+### Academic honesty and plagiarism
+
+We, as a class, will abide by the Bowdoin College Academic Honor Code. While you are encouraged to discuss ideas and thoughts with your classmates, plagiarism in any form will be subject to grade reductions and disciplinary action. Specifically, you are permitted to make use of online resources and/or search platforms. However, directly copying or adapting written material and/or your classmates' answers or ideas will be considered plagiarism. This policy applies to both individual and group assignments. 
+
+Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
+
+### Electronic devices
+
+Most of our class time will be spent in active learning and in-person/online activities that require the use of technology. Therefore, **please bring a Macbook and iPad to class**. Some students find it helpful to code on their Mac and use their iPad for looking at slides, so please consider bringing both devices to class. 
+
+Please make sure that your devices are fully charged when you arrive to class. In order to minimize distractions, please close or exit out of all other programs except those needed during class, and [put your Mac/iPad on "work" mode](https://support.apple.com/guide/mac-help/set-up-a-focus-to-stay-on-task-mchl613dc43f/mac). All class time should be devoted to working on in-class activities and group projects. 
+
+### Attendance: How many classes can you miss? 
+It not only benefits your learning, but benefits all of our learning to be present together in the same space. Class time is designed to take advantage of our presence together. To that end, your attendance will count towards your [class participation](#class-participation-10-points).
+
+Of course, emergencies (illness or family emergencies) can and do occur. **Note: If you are sick, please stay home**. However, I would greatly appreciate that you email me if you will be missing class. 
+If you miss more than 2 classes and I haven’t heard from you, I will be in touch to check in on you. Hopefully you will have connections to other students in the class and can find out what you missed from a classmate. I will also try my best to upload slides and other course materials on the website and/or on Canvas.
+
+### Late Work Policy
+
+Sometimes, life doesn't go as planned and you have way too much going on to turn things in on time. That is **OKAY**! This course has the following policies for late work:
+
+1. Each student has **3 "flex" days** that they can use at their discretion throughout the semester. You can use all 3 days at once for a single assignment and turn in one assignment 3 days late (with no questions asked), OR you can spread the love across different assignments. 
+2. Flex days can be used for ANY assignments (quizzes, formative assignments, project milestones) unless otherwise stated in class. However, if an assignment is a GROUP assignment (as will be the case for projects), EACH member of the group will need to count off their individual flex day for the flex day to count.
+3. If you need to turn in work late and do not have any flex days left, I will consider extensions based on legitimate reasons, which ONLY include verified illnesses and/or family emergencies. In these cases, you are encouraged to reach out to me at least 24 hours **in advance** of the due date.   
+4. Work that is handed in late beyond the flex days or without an **approved** extension will automatically be graded on 50% of the original points.
+5. Using ONE flex day means you get a 24-hour extension. Please note that this is a strict extension and any work that is handed in beyond 24 hours after a flex day was requested will either need to use an additional flex day or will be graded on 50% of the original points.
+6. To request a flex day, you can send me an email within the 24-hour extension window, or leave a comment on your submitted assignment on Canvas. 
+
+
+### Inclusion
+I will do my very best to ensure that students from all backgrounds and perspectives receive equitable access and opportunity in this course, that students' learning needs be addressed both in and out of class, and that the diversity students bring to this class is viewed as a resource, strength, and benefit. I hope to employ materials and engage in activities and dialogue that are respectful of different aspects of your identity. 
+
+### Religious Holidays
+No student is required to take an examination or fulfill other scheduled course requirements on recognized religious holidays. Students are expected to declare their intention to observe these holidays at the beginning of the semester. 
+
+### Accommodations
+Students with documented Bowdoin-granted accommodations have a right to have these met. I encourage you to see me in the **first 2 weeks of class** to discuss how your accommodations may support your learning process in this course. I highly encourage all students to meet with me in the first few weeks of class to discuss your learning preferences, challenges you may face learning this semester, and how we can create an effective learning experience for you. If you are interested in learning more about accommodations please see Lesley Levy in the Office of Student Accessibility or visit [Bowdoin's website on accessibility-related policies and resources](https://www.bowdoin.edu/accessibility/).
+
+### Counseling Resources
+As a student, you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduced ability to participate in daily activities. Bowdoin College is committed to advancing the mental health and well-being of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. You can learn more about the broad range of confidential mental health services available on campus at [this](https://www.bowdoin.edu/counseling/) link. The [Dean of Students Office](https://www.bowdoin.edu/dean-of-students/index.html) is also a resource for students facing personal and academic challenges. I encourage you to reach out to the amazing people in the dean’s office for a meeting anytime. 
+
+### Learning Resources
+
+The [Baldwin Center for Learning and Teaching](https://www.bowdoin.edu/baldwin-center) offers peer-to-peer resources including mentors, Q-Tutors, and Writing Assistants. If you or your family are multilingual, you may also take advantage of Lisa Flanagan to work on writing and speaking assignments and projects. Tina Chong is available as an Academic Coach to work with you on goal setting, managing time, study habits and other strategies to support academic success. You are encouraged to [make an appointment](https://www.bowdoin.edu/baldwin-center/make-an-appointment/) and learn more about how the Center can support your learning.
+
+### Other resources
+
+If you are on a budget or would benefit from financial assistance of any kind at any point in the semester, I encourage you to contact your Dean and explore the [Supplemental and Emergency Funding website](https://www.bowdoin.edu/dean-of-students/resources/emergency-funding/index.html). The Office of the Dean of Students has grant and loan funds available to remove financial barriers so that students can more fully access the Bowdoin experience or to assist students with unexpected financial needs.
+
+### Mandated Reporter
+As a faculty member, I am considered a **Responsible Employee**, per the Student Sexual Misconduct and Gender Based Violence Policy. As a Responsible Employee I am required to report disclosures of sexual misconduct, dating violence, stalking, and/or sexual and gender-based harassment to Bowdoin's Title IX Coordinator, Kate O'Grady. My reporting does NOT mean that any actions will be taken beyond Kate reaching out to you and trying to schedule a time to talk to see what assistance you might need to be successful as a student here at Bowdoin. For more information please check out [Bowdoin's Title IX page](http://www.bowdoin.edu/title-ix).
