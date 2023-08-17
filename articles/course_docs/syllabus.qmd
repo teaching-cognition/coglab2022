@@ -257,7 +257,10 @@ There will be some opportunities to earn extra credit during the semester. These
 
 We, as a class, will abide by the Bowdoin College Academic Honor Code. While you are encouraged to discuss ideas and thoughts with your classmates, plagiarism in any form will be subject to grade reductions and disciplinary action. Specifically, you are permitted to make use of online resources and/or search platforms. However, directly copying or adapting written material and/or your classmates' answers or ideas will be considered plagiarism. This policy applies to both individual and group assignments. 
 
+**Use of ChatGPT**: We will learn a lot of new concepts (some technical and some non-technical) during this course. ChatGPT is a large language model that can be viewed as a helper/assistant, and is often useful in troubleshooting and/or idea generation. To that end, you are allowed to use ChatGPT to debug code or generate ideas for your research proposal. I have found that ChatGPT is useful in breaking down complex parts of content and explaining them to beginners in easy ways. Having said that, it is not always reliable so exercise caution and always USE YOUR OWN JUDGMENT, even if you take suggestions from ChatGPT or other sources on the internet. Further, please acknowledge/cite ChatGPT/other sources when and if you use it in your assignments or project work.
+
 Please refer to [this](https://www.bowdoin.edu/dean-of-students/conduct-review-board/academic-honesty-and-plagiarism/index.html) page for a list of resources related to plagiarism and other academic integrity issues. [Here](https://myerslab.uconn.edu/wp-content/uploads/sites/291/2022/05/Plagiarism-Infographic.pdf) is another helpful infographic about plagiarism that you are encouraged to go over.
+
 
 ### Electronic devices
 
