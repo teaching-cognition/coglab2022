@@ -56,6 +56,8 @@ Please complete the following BEFORE class:
 
 Please complete the following BEFORE class:
 
+- Read the [QALMRI + SPARK tutorial](https://teaching-cognition.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
+
 - Read the paper (PDF on Canvas): 
 
 >> Savic, O., Unger, L., & Sloutsky, V. M. (2022). Exposure to co-occurrence regularities in language drives semantic integration of new words. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 48</i>(7), 1064.
