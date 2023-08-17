@@ -16,8 +16,8 @@ Welcome! This is the course website for **Lab in Cognitive Science** (Fall 2023)
 **Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
 
-**Learning Assistant**: TBD <br>
-
+**Learning Assistant**: Jon Sides<br>
+Email: [jsides\@bowdoin.edu](jsides@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
 
 ## Note to students
 

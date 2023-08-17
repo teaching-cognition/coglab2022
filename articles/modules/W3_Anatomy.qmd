@@ -46,13 +46,20 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- TBD
+- Read the paper (PDF on Canvas)
+
+>> Barnes, N. Publish your computer code: it is good enough. Nature 467, 753 (2010). https://doi.org/10.1038/467753a
+
+
+
 
 ### Thursday
 
 Please complete the following BEFORE class:
 
-- TBD
+- Read the article:
+
+>> [A non-technical introduction to basic coding concepts](https://jaeyoungson.com/posts/2021-07-12-no-code-intro-programming/)
 
 ::::
 :::
@@ -80,9 +87,11 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
+<!--
 <a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
 
 <a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
+-->
 
 
 ::::
@@ -112,7 +121,7 @@ knitr::include_graphics("imgs/apply.png")
 This week, you will be submitting the following (on Canvas):
 
 - Week 3 Quiz
-- Project Milestone 2 (QALMRI + Proposal)
+- Project Milestone 2 (QALMRI)
 - Optional Meme
 ::::
 :::

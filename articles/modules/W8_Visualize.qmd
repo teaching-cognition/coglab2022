@@ -1,6 +1,6 @@
 ---
 title: "W8: Visualize Data"
-description: "This is the module for Week 4. We will learn how to start building different parts of an experiment using the platform jsPsych."
+description: "This is the module for Week 8. We will start learning the basics of visualizing data in R/RStudio."
 author: "Abhilasha Kumar"
 date-modified: last-modified
 opengraph:
@@ -19,8 +19,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Discuss basic syntax of jsPsych and connect it to HTML
-- Introduce jsPsych plugins
+- Introduce R/Rstudio console and notebook format
+- Learn how to import and inspect data in R
 
 ## Prep 
 
@@ -42,13 +42,16 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- TBD
+- Download [R for mac](https://cran.r-project.org/bin/macosx/) by clicking on the first .pkg link on the webpage.
+- Download [Rstudio](https://posit.co/download/rstudio-desktop/)
 
 ### Thursday
 
 Please complete the following BEFORE class:
 
-- TBD
+- Complete the [Visualization Basics](https://posit.cloud/learn/primers/1) primer from posit.
+- Complete the [Programming Basics](https://posit.cloud/learn/primers/1) primer on the same page.
+
 
 ::::
 :::
@@ -76,9 +79,11 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+<!--
+<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
+-->
 
 
 ::::
@@ -107,8 +112,9 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 4 Quiz
-- Project Milestone 3 (Anatomy)
+- Week 8 Quiz
+- Project Milestone 6 (Pre-registration)
+- Optional Meme
 
 ::::
 :::

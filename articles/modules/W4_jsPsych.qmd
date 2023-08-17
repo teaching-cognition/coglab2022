@@ -42,13 +42,18 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- TBD
+- Read the article (PDF on Canvas)
+
+>> de Leeuw, J.R. jsPsych: A JavaScript library for creating behavioral experiments in a Web browser. Behavior Research Methods, 47, 1–12 (2015). https://doi.org/10.3758/s13428-014-0458-y
+
 
 ### Thursday
 
 Please complete the following BEFORE class:
 
-- TBD
+- Read the online documentation on jsPsych plugins
+
+>> https://www.jspsych.org/7.0/overview/plugins/
 
 ::::
 :::
@@ -76,9 +81,11 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+<!--
+<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
+-->
 
 
 ::::
@@ -108,7 +115,8 @@ knitr::include_graphics("imgs/apply.png")
 This week, you will be submitting the following (on Canvas):
 
 - Week 4 Quiz
-- Project Milestone 3 (Anatomy)
+- Project Milestone 3 (Project Proposal)
+- Class Survey [September] 
 - Optional Meme
 ::::
 :::

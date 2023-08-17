@@ -1,6 +1,6 @@
 ---
 title: "W5: Experiment Timeline"
-description: "This is the module for Week 4. We will learn how to start building different parts of an experiment using the platform jsPsych."
+description: "This is the module for Week 5. We will learn how to put different parts of an experiment into a coherent timeline."
 author: "Abhilasha Kumar"
 date-modified: last-modified
 opengraph:
@@ -19,8 +19,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Discuss basic syntax of jsPsych and connect it to HTML
-- Introduce jsPsych plugins
+- Discuss how experiments are created via timelines
+- Discuss how to debug errors along the way
 
 ## Prep 
 
@@ -42,7 +42,9 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- TBD
+- Read the online documentation on timelines
+
+>> https://www.jspsych.org/7.0/overview/timeline/
 
 ### Thursday
 
@@ -76,9 +78,11 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+<!--
+<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/cognition/slides/L0_getting_started.pdf" role="button" target="_blank">L0: Slides</a>
+<a class="btn btn-outline-info" href="" role="button" target="_blank">L0: Slides</a>
+-->
 
 
 ::::
@@ -107,8 +111,9 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 4 Quiz
-- Project Milestone 3 (Anatomy)
+- Week 5 Quiz
+- Formative Assignment (jsPsych)
+- Optional Meme
 
 ::::
 :::
