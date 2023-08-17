@@ -22,6 +22,12 @@ knitr::opts_chunk$set(
 1. [Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)
 2. Review paper samples: [Sample 1](https://portal.tpu.ru/SHARED/t/TWIN16/students/Tab/Sample_apa_style_litreview.pdf), [Sample 2](https://psychology.ucsd.edu/_files/undergrad/exampleapastylebspaperlitreview.pdf)
 
+## Technical resources
+
+1. [Cheat Sheets by posit](https://posit.cloud/learn/cheat-sheets)
+2. [Experimentology](https://experimentology.io/): A new, open-source textbook on experiment design
+3. [R Bootcamp](https://r-bootcamp.netlify.app/)
+4. [ggplot and dplyr tutorial](https://ggplot-dplyr-intro.netlify.app/#Set_up)
 
 ## Interesting perspectives/research/videos
 
