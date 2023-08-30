@@ -33,6 +33,7 @@ Welcome! This page hosts the syllabus for PSYC 2740
 
 ### Who is your learning assistant?
 
+<img width = "30%" height = "auto" src = "../../images/jon.jpeg"><br>
 **Jon Sides**
 
 **Pronouns**: he/they
@@ -51,7 +52,7 @@ Welcome! This page hosts the syllabus for PSYC 2740
 
 **LA's office hours (Kanbar 200)**<br>
 
-- Tuesdays and Sundays, 7-9 pm, Kanbar 200
+- Tuesdays and Sundays, 7-8 pm, Kanbar 200
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with us. If the designated hours don't work for you, please email us to find a different time.
 
