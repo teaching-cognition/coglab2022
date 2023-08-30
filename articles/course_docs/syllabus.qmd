@@ -33,7 +33,7 @@ Welcome! This page hosts the syllabus for PSYC 2740
 
 ### Who is your learning assistant?
 
-<img width = "30%" height = "auto" src = "../../images/jon.jpeg"><br>
+<img width = "30%" height = "auto" src = "../../images/jon.jpg"><br>
 **Jon Sides**
 
 **Pronouns**: he/they
