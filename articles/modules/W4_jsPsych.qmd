@@ -42,9 +42,12 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- Read the article (PDF on Canvas)
+- Read the articles (PDF/Links on Canvas)
 
 >> de Leeuw, J.R. jsPsych: A JavaScript library for creating behavioral experiments in a Web browser. Behavior Research Methods, 47, 1–12 (2015). https://doi.org/10.3758/s13428-014-0458-y
+
+>> [A non-technical introduction to basic coding concepts](https://jaeyoungson.com/posts/2021-07-12-no-code-intro-programming/)
+
 
 
 ### Thursday

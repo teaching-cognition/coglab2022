@@ -57,9 +57,11 @@ Please complete the following BEFORE class:
 
 Please complete the following BEFORE class:
 
-- Read the article:
+- Read the articles:
+>> [How does the internet work](https://medium.com/@ankurdhamija83/day-0-web-development-basics-what-is-the-internet-and-how-it-works-9714e6f82181)
+>> [A non-technical introduction to HTML/CSS/Javascript](https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f)
 
->> [A non-technical introduction to basic coding concepts](https://jaeyoungson.com/posts/2021-07-12-no-code-intro-programming/)
+
 
 ::::
 :::
