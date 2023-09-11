@@ -55,11 +55,11 @@ Please complete the following BEFORE class:
 
 ### Thursday
 
-Please complete the following BEFORE class:
+Please read the following articles BEFORE class:
 
-- Read the articles:
->> [How does the internet work](https://medium.com/@ankurdhamija83/day-0-web-development-basics-what-is-the-internet-and-how-it-works-9714e6f82181)
->> [A non-technical introduction to HTML/CSS/Javascript](https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f)
+- [How does the internet work](https://medium.com/@ankurdhamija83/day-0-web-development-basics-what-is-the-internet-and-how-it-works-9714e6f82181)
+
+- [A non-technical introduction to HTML/CSS/Javascript](https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f)
 
 
 
