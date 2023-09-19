@@ -48,9 +48,10 @@ Please complete the following BEFORE class:
 
 ### Thursday
 
-Please complete the following BEFORE class:
+Read the documentation on conditional timelines and providing feedback
 
-- TBD
+- https://www.jspsych.org/7.3/overview/timeline/#conditional-timelines
+- https://www.jspsych.org/7.3/overview/dynamic-parameters/#providing-feedback
 
 ::::
 :::
