@@ -42,16 +42,11 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- Read the online documentation on timelines
-
->> https://www.jspsych.org/7.0/overview/timeline/
+- Read the online documentation on [timelines](https://www.jspsych.org/7.0/overview/timeline/)
 
 ### Thursday
 
-Read the documentation on conditional timelines and providing feedback
-
-- https://www.jspsych.org/7.3/overview/timeline/#conditional-timelines
-- https://www.jspsych.org/7.3/overview/dynamic-parameters/#providing-feedback
+- Read the documentation on [conditional timelines](https://www.jspsych.org/7.3/overview/timeline/#conditional-timelines) and [providing feedback](https://www.jspsych.org/7.3/overview/dynamic-parameters/#providing-feedback)
 
 ::::
 :::
