@@ -42,15 +42,11 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- Read the online documentation on data storage:
-
->> https://www.jspsych.org/7.0/overview/data/
+- Read the online documentation on [data storage](https://www.jspsych.org/7.0/overview/data/)
 
 ### Thursday
 
-Please complete the following BEFORE class:
-
-- TBD
+- Read the online documentation on [running online experiments](https://www.jspsych.org/7.3/overview/running-experiments/#online)
 
 ::::
 :::
