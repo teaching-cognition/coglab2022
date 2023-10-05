@@ -44,13 +44,14 @@ Please complete the following BEFORE class:
 
 - Download [R for mac](https://cran.r-project.org/bin/macosx/) by clicking on the first .pkg link on the webpage.
 - Download [Rstudio](https://posit.co/download/rstudio-desktop/)
+- Complete the [Programming Basics](https://posit.cloud/learn/primers/1.2) primer from posit.
 
 ### Thursday
 
 Please complete the following BEFORE class:
 
-- Complete the [Visualization Basics](https://posit.cloud/learn/primers/1) primer from posit.
-- Complete the [Programming Basics](https://posit.cloud/learn/primers/1) primer on the same page.
+- Complete the [Visualization Basics](https://posit.cloud/learn/primers/1.1) primer from posit.
+
 
 
 ::::
@@ -113,7 +114,8 @@ knitr::include_graphics("imgs/apply.png")
 This week, you will be submitting the following (on Canvas):
 
 - Week 8 Quiz
-- Project Milestone 6 (Pre-registration)
+- Formative milestone # 1 resubmission
+- Project Milestone 5 (Full Experiment)
 - Optional Meme
 
 ::::

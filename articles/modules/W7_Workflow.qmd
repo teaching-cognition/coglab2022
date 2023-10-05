@@ -19,7 +19,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Cover extraneous content on managing experiment workflow 
+- Take a breather, reflect on the "Design" module of the course
+- Review questions/thoughts on project and formative milestone(s)
 - Get some intuitions going about an analysis workflow 
 
 ## Prep 
@@ -43,8 +44,9 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- Review the Results section (pp. 1069-1070) of the Savic et al. paper (Experiment 1)
 - Bring project-related and formative assignment-related questions to class!
+- Review the Results section (pp. 1069-1070) of the Savic et al. paper (Experiment 1)
+
 
 ::::
 :::
