@@ -44,6 +44,7 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
+- Complete HW1 and HW2 from Week 6!
 - Bring project-related and formative assignment-related questions to class!
 - Review the Results section (pp. 1069-1070) of the Savic et al. paper (Experiment 1)
 

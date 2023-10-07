@@ -24,10 +24,11 @@ knitr::opts_chunk$set(
 
 ## Technical resources
 
-1. [Cheat Sheets by posit](https://posit.cloud/learn/cheat-sheets)
-2. [Experimentology](https://experimentology.io/): A new, open-source textbook on experiment design
-3. [R Bootcamp](https://r-bootcamp.netlify.app/)
-4. [ggplot and dplyr tutorial](https://ggplot-dplyr-intro.netlify.app/#Set_up)
+1. [Base R Cheat Sheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf)
+2. [Cheat Sheets by posit](https://posit.cloud/learn/cheat-sheets)
+3. [Experimentology](https://experimentology.io/): A new, open-source textbook on experiment design
+4. [R Bootcamp](https://r-bootcamp.netlify.app/)
+5. [ggplot and dplyr tutorial](https://ggplot-dplyr-intro.netlify.app/#Set_up)
 
 ## Interesting perspectives/research/videos
 
