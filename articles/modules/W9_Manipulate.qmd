@@ -106,8 +106,7 @@ knitr::include_graphics("imgs/apply.png")
 This week, you will be submitting the following (on Canvas):
 
 - Week 9 Quiz
-- Formative Assignment (R Descriptive)
-- Class Survey [October]
+- Formative Assignment #2 (R Descriptive)
 - Optional Meme
 
 ::::
