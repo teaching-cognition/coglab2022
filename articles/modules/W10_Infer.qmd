@@ -19,6 +19,7 @@ knitr::opts_chunk$set(
 
 ## Goals
 
+- Connect tidyverse to research questions
 - Introduce statistical tests in R
 - Provide basic primer/review on t-tests / ANOVAs
 
@@ -42,11 +43,14 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- [Hypothesis Testing](https://statsthinking21.github.io/statsthinking21-core-site/hypothesis-testing.html) (Ch.9 in Statistical Thinking for the 21st Century by Russ Poldrack)
+- Complete the [Tidy your Data](https://posit.cloud/learn/primers/4) primer
+
 
 ### Thursday
 
 Please complete the following BEFORE class:
+
+- [Hypothesis Testing](https://statsthinking21.github.io/statsthinking21-core-site/hypothesis-testing.html) (Ch.9 in Statistical Thinking for the 21st Century by Russ Poldrack)
 
 - [Practical Statistical Modeling](https://statsthinking21.github.io/statsthinking21-core-site/practical-example.html) (Ch.17 in Statistical Thinking for the 21st Century by Russ Poldrack)
 
@@ -109,6 +113,8 @@ knitr::include_graphics("imgs/apply.png")
 This week, you will be submitting the following (on Canvas):
 
 - Week 10 Quiz
+- Formative Assignment #2 (R Descriptive)
+- Project Milestone #6 (Pre-registration)
 - Optional Meme
 
 ::::

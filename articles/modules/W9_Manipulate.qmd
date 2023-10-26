@@ -103,11 +103,7 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
-
-- Week 9 Quiz
-- Formative Assignment #2 (R Descriptive)
-- Optional Meme
+No assignments are due this week. Please take the time to reflect, reset, and review the course content.
 
 ::::
 :::
