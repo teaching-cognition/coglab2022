@@ -42,13 +42,17 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- TBD
+- Make sure piloting is complete. Bring questions to class! 
 
 ### Thursday
 
-Please complete the following BEFORE class:
+We will return to statistical inference. Please complete the following BEFORE class:
 
-- TBD
+- [Hypothesis Testing](https://statsthinking21.github.io/statsthinking21-core-site/hypothesis-testing.html) (Ch.9 in Statistical Thinking for the 21st Century by Russ Poldrack)
+
+- [Practical Statistical Modeling](https://statsthinking21.github.io/statsthinking21-core-site/practical-example.html) (Ch.17 in Statistical Thinking for the 21st Century by Russ Poldrack)
+
+- All primers from Posit
 
 ::::
 :::
