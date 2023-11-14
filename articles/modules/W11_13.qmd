@@ -81,7 +81,8 @@ knitr::include_graphics("imgs/try.png")
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
 <a class="btn btn-outline-info" href="https://teaching-cognition.github.io/coglab/slides/W11_Nov_7_2023.pdf" role="button" target="_blank">W11: Slides 1</a>
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/coglab/slides/W11_Nov_9_2023.pdf" role="button" target="_blank">W11: Slides 2</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/coglab/slides/W12_Nov_9_2023.pdf" role="button" target="_blank">W11: Slides 1</a>
+<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/coglab/slides/W12_Nov_14_2023.pdf" role="button" target="_blank">W12: Slides 1</a>
 
 
 ::::
