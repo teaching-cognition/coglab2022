@@ -56,7 +56,7 @@ Please complete the following BEFORE class:
 
 Please complete the following BEFORE class:
 
-- Read the [QALMRI + SPARK tutorial](https://teaching-cognition.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
+- Read the [QALMRI + SPARK tutorial](https://teaching-me.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
 
 - Read the paper (PDF on Canvas): 
 
@@ -88,9 +88,9 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/coglab/slides/W2_Sep_5_2023.pdf" role="button" target="_blank">W2: Slides 1</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W2_Sep_5_2023.pdf" role="button" target="_blank">W2: Slides 1</a>
 
-<a class="btn btn-outline-info" href="https://teaching-cognition.github.io/coglab/slides/W2_Sep_7_2023.pdf" role="button" target="_blank">W2: Slides 2</a>
+<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W2_Sep_7_2023.pdf" role="button" target="_blank">W2: Slides 2</a>
 
 
 ::::
