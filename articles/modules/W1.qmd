@@ -1,13 +1,7 @@
 ---
-title: "W2: Replication and Design"
-description: "This is the module for Week 2. We will discuss the value of replication in science and review some basic research design principles that will be relevant for this course."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-order: 1
+title: "W1: Getting Started"
+description: "This is a general orientation for PSYC 2740, Fall 2024. Start here to learn more about how this course will work."
+order: 0 
 ---
 
 ```{r, include = FALSE}
@@ -17,16 +11,20 @@ knitr::opts_chunk$set(
 )
 ```
 
+Welcome to the orientation module for PSYC 2740! We will cover everything here and more on the first day of class. See you there.
+
 ## Goals
 
+- Quick course orientation
 - Discuss the open science movement and the replication crisis
 - Review research methods and design principles
 
 ## Instructions 
 
-Work through each of the following Prep, Try, and Apply sections. Please note that all assigned readings will be available on Canvas, and any submissions should also be made directly on Canvas.
+Work through each of the following Prep, Try, and Apply sections. The Prep section will provide details on all the assigned material for Tuesday and Thursday each week. The Try section will contain any slides/links that may be used during class as well as details about quizzes you may need to complete in a given week. The Apply section will provide instructions about the formative and/or project assignment(s) due at the end of the week.
 
-## Prep 
+## Prep
+
 
 :::::{.card .border .border-2 .border-info}
 :::: {.grid .g-0}
@@ -42,19 +40,20 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday
+### Before Tuesday
 
-Please complete the following BEFORE class:
+Read the syllabus for this course. If you have questions about the syllabus, then please ask them in class or by annotating the syllabus on Canvas.
+
+<a class="btn btn-outline-info" href="../course_docs/syllabus.html" role="button" >Read</a>
+
+### Before Thursday
 
 - Complete the experiment using the link on Canvas
 - Read the paper (PDF on Canvas): 
 
 >> Frank, M. C., & Saxe, R. (2012). Teaching replication. Perspectives on Psychological Science, 7(6), 600-604.
 
-
-### Thursday
-
-Please complete the following BEFORE class:
+### After Thursday
 
 - Read the [QALMRI + SPARK tutorial](https://teaching-me.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
 
@@ -88,9 +87,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W2_Sep_5_2023.pdf" role="button" target="_blank">W2: Slides 1</a>
-
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W2_Sep_7_2023.pdf" role="button" target="_blank">W2: Slides 2</a>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W1_Aug_31_2023.pdf" role="button" target="_blank">W1: Slides</a> -->
 
 
 ::::
@@ -117,11 +114,11 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
+This week, you will be submitting the following:
 
-- Week 2 Quiz
-- Project Milestone 1 (Team Plan + Review Article)
-- Optional Meme
+- Week 1 (Syllabus) Reflections
+- CITI training certificate
+
 ::::
 :::
 

@@ -1,13 +1,7 @@
 ---
 title: "W15: Wrapping Up!"
 description: "It's a wrap! This module gives you some more details about end-of-semester things."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-order: 12
+order: 11
 ---
 
 ```{r, include = FALSE}

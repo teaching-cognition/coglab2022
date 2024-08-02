@@ -30,7 +30,7 @@ website:
   
   title: "coglab"
   navbar:
-    logo: "images/logobar.png"
+    logo: "images/logobar.jpg"
     title: false
     align: center
     left:

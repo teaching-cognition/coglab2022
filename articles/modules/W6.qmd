@@ -1,13 +1,7 @@
 ---
-title: "W14: Odds and Ends"
-description: "This is the module for Week 14. We will start wrapping up and tying up loose ends!"
-author: "Abhilasha Kumar"
-date-modified: last-modified
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-order: 11
+title: "W6: Experiment Workflow"
+description: "This is the module for Week 6. We will review some aspects of experiment design in jsPsych and start thinking about how we might analyze data from our experiments"
+order: 5
 ---
 
 ```{r, include = FALSE}
@@ -19,9 +13,9 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Focus on experiment finalizing
-- Monitor data collection
-- Discuss poster designing principles
+- Take a breather, reflect on the "Design" module of the course
+- Review questions/thoughts on project and formative milestone(s)
+- Get some intuitions going about an analysis workflow 
 
 ## Prep 
 
@@ -39,11 +33,14 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday/Thursday
 
-- Read the paper (PDF on Canvas)
+### Thursday
 
->> Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The Science of Visual Data Communication: What Works. Psychological Science in the Public Interest, 22(3), 110–161. https://doi.org/10.1177/15291006211051956
+Please complete the following BEFORE class:
+
+- Complete HW1 and HW2 from Week 6!
+- Bring project-related and formative assignment-related questions to class!
+- Review the Results section (pp. 1069-1070) of the Savic et al. paper (Experiment 1)
 
 
 ::::
@@ -72,7 +69,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W14_Nov_30_2023.pdf" role="button" target="_blank">W14: Slides</a>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W7_Oct_12_2023.pdf" role="button" target="_blank">W7: Slides</a> -->
 
 ::::
 :::
@@ -100,9 +97,7 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 13 Quiz
-- Project Milestone 7 (Analyses)
-- Project Milestone 8 (Poster Draft)
+- Formative Milestone #1 (jsPsych)
 - Optional Meme
 
 ::::

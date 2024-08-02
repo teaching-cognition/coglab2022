@@ -11,13 +11,13 @@ editor: source
 title-block-style: none
 ---
 
-Welcome! This is the course website for **Lab in Cognitive Science** (Fall 2023), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
+Welcome! This is the course website for **Lab in Cognitive Science** (Fall 2024), taught by Dr. Abhilasha Kumar, at the Department of Psychology, Bowdoin College.
 
 **Instructor**: <a href="https://thelexiconlab.github.io/people/" target="_blank">Abhilasha Kumar </a><br> 
 Email: [a.kumar\@bowdoin.edu](a.kumar@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
 
-**Learning Assistant**: Jon Sides<br>
-Email: [jsides\@bowdoin.edu](jsides@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
+**Learning Assistant**: Uma Mohamed<br>
+Email: [umohamed\@bowdoin.edu](umohamed@bowdoin.edu) (**students**, please put PSYC 2740 in the subject line)
 
 ## Note to students
 

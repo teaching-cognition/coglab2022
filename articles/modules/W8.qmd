@@ -1,13 +1,7 @@
 ---
-title: "W7: Experiment Workflow"
-description: "This is the module for Week 7. We will review some aspects of experiment design in jsPsych and start thinking about how we might analyze data from our experiments"
-author: "Abhilasha Kumar"
-date-modified: last-modified
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-order: 6
+title: "W8: Manipulate Data"
+description: "This is the module for Week 8. We will learn how to wrangle and manipulate data in R/RStudio."
+order: 7
 ---
 
 ```{r, include = FALSE}
@@ -19,9 +13,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Take a breather, reflect on the "Design" module of the course
-- Review questions/thoughts on project and formative milestone(s)
-- Get some intuitions going about an analysis workflow 
+- Introduce tidyverse functions
+- Connect tidyverse to research questions
 
 ## Prep 
 
@@ -39,15 +32,17 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
+### Tuesday
+
+Please complete the following BEFORE class:
+
+- Complete the [Work with Data](https://posit.cloud/learn/primers/2) primer
 
 ### Thursday
 
 Please complete the following BEFORE class:
 
-- Complete HW1 and HW2 from Week 6!
-- Bring project-related and formative assignment-related questions to class!
-- Review the Results section (pp. 1069-1070) of the Savic et al. paper (Experiment 1)
-
+- Complete the [Tidy your Data](https://posit.cloud/learn/primers/4) primer
 
 ::::
 :::
@@ -75,7 +70,8 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W7_Oct_12_2023.pdf" role="button" target="_blank">W7: Slides</a>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W9_Oct_24_2023.pdf" role="button" target="_blank">W9: Slides 1</a> -->
+
 
 ::::
 :::
@@ -101,10 +97,7 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
-
-- Formative Milestone #1 (jsPsych)
-- Optional Meme
+No assignments are due this week. Please take the time to reflect, reset, and review the course content.
 
 ::::
 :::

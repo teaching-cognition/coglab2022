@@ -9,9 +9,9 @@ Welcome! This page hosts the syllabus for PSYC 2740
 ### Basic Course Information
 
 **Course number**: PSYC 2740<br>
-**Semester**: Fall 2023 </u><br>
+**Semester**: Fall 2024 </u><br>
 **When**: Tuesdays & Thursdays, 10.05-11.30 AM<br>
-**Where**: Roux Center for the Environment 302 <br>
+**Where**: Druckenmiller Hall 024 <br>
 **Website**: You are here!<br>
 **Pre-requisites**: Three of:<br>
 
@@ -33,29 +33,29 @@ Welcome! This page hosts the syllabus for PSYC 2740
 
 ### Who is your learning assistant?
 
-<img width = "30%" height = "auto" src = "../../images/jon.jpg"><br>
-**Jon Sides**
+<!-- <img width = "30%" height = "auto" src = "../../images/jon.jpg"><br> -->
+**Uma Mohamed**
 
-**Pronouns**: he/they
+<!--**Pronouns**: he/they
 
 **About me**: I am a junior majoring in psychology and math. I grew up in Minnesota and Connecticut, and after Bowdoin I hope to live in the city (New York, Chicago, Oslo?) and pursue a clinical neuroscience career. For now, I enjoy shopping, concerts and musicals, hockey, coffee shops, and Star Wars. I have also been a Starbucks barista for 5 years. <br>
 
 **Email**: jsides\@bowdoin.edu
 
-**Office**: Kanbar Hall, Room 200
+**Office**: Kanbar Hall, Room 200-->
 
 ### Student/Office Hours 
 
-**Abhilasha's office hours (Kanbar 217)**: <br>
+<!-- **Abhilasha's office hours (Kanbar 217)**: <br> -->
 
-- Tuesdays, 9-10 am
-- Thursdays, 9-10 am
-- Thursdays, 4-5.30 pm
-- Fridays, 10-11 am
+<!-- - Tuesdays, 9-10 am -->
+<!-- - Thursdays, 9-10 am -->
+<!-- - Thursdays, 4-5.30 pm -->
+<!-- - Fridays, 10-11 am -->
 
-**LA's office hours (Kanbar 200)**<br>
+<!-- **LA's office hours (Kanbar 200)**<br> -->
 
-- Tuesdays and Sundays, 7-8 pm, Kanbar 200
+<!-- - Tuesdays and Sundays, 7-8 pm, Kanbar 200 -->
 
 You are **strongly encouraged** to drop-in during student/office hours - this is time specifically dedicated to **you** and any thoughts, questions, or concerns you may wish to share with us. If the designated hours don't work for you, please email us to find a different time.
 
@@ -100,7 +100,7 @@ Weekly learning modules include three components to encourage engagement with th
 ```{r, message=FALSE, warning=FALSE, echo=FALSE, eval=TRUE}
 #library(data.table)
 library(readxl)
-Lectures <- read_excel("coglab_2023_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
+Lectures <- read_excel("coglab_2024_schedule.xlsx", sheet = 1, col_names = TRUE, col_types = NULL, na = "", skip = 0)
 Lectures$Week <- as.character(Lectures$Week)
 Lectures[is.na(Lectures)] <- " "
 knitr::kable(Lectures)
@@ -124,7 +124,7 @@ The grading scale for this class is as follows:
 | D            | 60 - 69.99 |
 | F            | fewer than 60%     |
 
-Grades will be determined based on the following rubric, which is based on emphasizing our [three learning goals](#why-take-this-course-a.k.a.-learning-goals) (<span style="color:#508AB0">Design</span>, <span style="color:#E7AC10">Analyze</span> and <span style="color:#1CB447">Communicate</span>)
+Grades will be determined based on the following rubric, which emphasizes our [three learning goals](#why-take-this-course-a.k.a.-learning-goals) (<span style="color:#508AB0">Design</span>, <span style="color:#E7AC10">Analyze</span> and <span style="color:#1CB447">Communicate</span>)
 
 There are multiple ways for students to engage with class and course materials and achieve their desired grade. Students are encouraged to choose the assignments that work best for them. Course assessments that occur throughout the semester are designed to help students set and achieve their own goals for engaging in course content.
 
@@ -142,7 +142,7 @@ There are multiple ways for students to engage with class and course materials a
 
 ### Weekly Quizzes (25 points)
 
-At the end of each weekly module, there will be a quiz that covers the content discussed in class through multiple-choice or true-false questions. You may take the quiz as many times as you'd like, but your average score will be recorded, i.e., if you get a really low score on the first attempt, it will impact your overall score even if you score 100% on the later attempt(s). Therefore, you are encouraged to review the weekly content before you attempt the quiz.
+At the end of each weekly module, there will be a quiz that covers the content discussed in class through multiple-choice or true-false questions. You may take the quiz twice and your average score will be recorded, i.e., if you get a really low score on the first attempt, it will impact your overall score even if you score 100% on the later attempt. Therefore, you are encouraged to review the weekly content before you attempt the quiz.
 
 Overall, these quizzes contribute 25 points towards your final grade, but each quiz will be graded for 5 points and then scaled to total up to 25 points at the end of the semester.
 
@@ -154,7 +154,7 @@ At different points during the semester, there will be 3 formative assignments t
 
 Overall, these formative assignments contribute 30 points towards your final grade, with each assignment being worth 10 points each. 
 
-**Note**: Making mistakes is part of the learning process. To incentivize correcting your mistakes on your formative assignments, you will be allowed to redo ONLY formative assignments any number of times to regain 50% of the points you lost, if you submit a revision **within a week** of receiving the previous points. For example, on a 10 point assignment, if you scored 7 points, and want to improve your score, you can resubmit your assignment within a week of when you received it, and you may earn back 50% of the 3 points you lost, i.e., 1.5 points. However, please weigh the costs of redoing the assignment against how many points you may be able to earn back. The last date to turn in assignment redos is December 18, 11.59 pm.
+**Note**: Making mistakes is part of the learning process. To incentivize correcting your mistakes on your formative assignments, you will be allowed to redo ONLY formative assignments after receiving feedback on your initial attempt. Your initial attempt will be worth 20% of your total grade on that assignment and your second attempt will be worth 80% of your total grade on that assignment.
 
 ### Final Project (40 points)
 
@@ -243,17 +243,14 @@ In-class participation will be assessed based on how engaged you are in or outsi
 
 Attendance will be taken for each class and you will get full credit if you attend at least 90% of the class sessions. Beyond that, you will be assigned partial credit based on the number of classes you miss, i.e., 1 point will be deducted for each 10% drop in attendance (e.g., if you attend 80% of the classes, you will earn 4 points out of 5, if you attend 70% of the classes, you will earn 3 points out of 5, etc.)
 
-### Extra credit (5 points)
+### Extra credit (3 points)
 
 There will be some opportunities to earn extra credit during the semester. These opportunities are described below:
 
-1. <u>Complete class surveys (2 points) </u>: There will be 4 surveys during the semester to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey, all other surveys will be anonymous, and you will be able to earn 0.5 point for each survey you complete. 
+1. <u>Complete class surveys (2 points) </u>: There will be 3 surveys (beginning, mid-semester, end of semester) to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey, all other surveys will be anonymous, and you will be able to earn 1 point for each survey you complete. 
 
-3. <u> Win Star Coder (1 point)</u>: You will submit 4 formative coding assignments during the semester. The two students who score the combined highest score on these assignments will earn 1 extra credit each.
+2. <u> Win Star Coder (1 point)</u>: You will submit 3 formative coding assignments during the semester. The student who scores the combined highest score on these assignments will earn 1 extra credit each.
 
-2. <u> Win Team Player (1 point) </u>: For each project milestone, your teammates will  submit self and peer evaluations based on how the work was divided among the team members. The two students who receive the overall highest peer evaluation score at the end of the semester will earn 1 extra credit each.
-
-4. <u> Win Memer of the Semester (1 point) </u>: Each week, you will have the opportunity to submit a meme via Canvas, that reflects your experience with the course content of that week. Memes should be *original*, i.e., they should be course-specific and something you have created yourself and not simply found on the internet, although you are allowed to use common images/tropes from popular memes as a starting point. Memes also need to have a specific format, with the title of the learning module at the top of the meme (see Canvas). All memes will be gathered and sent to the class anonymously at the end of the semester for a survey, and the student(s) with the average highest score and the best scoring meme will both receive 1 additional point. **Note**: A student can only receive a maximum of 1 point through this mechanism, even if the same student has the highest average score in the context *and* the best scoring meme.
 
 ## Course Policies
 

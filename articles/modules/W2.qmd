@@ -1,13 +1,7 @@
 ---
-title: "W3: Experiment Anatomy"
-description: "This is the module for Week 3. We will discuss the preliminary building blocks of creating an experiment, as well as a framework for maintaining an effective workflow."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-order: 2
+title: "W2: Experiment Anatomy"
+description: "This is the module for Week 2. We will discuss the preliminary building blocks of creating an experiment, as well as a framework for maintaining an effective workflow."
+order: 1
 ---
 
 ```{r, include = FALSE}
@@ -42,9 +36,7 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday
-
-Please complete the following BEFORE class:
+### Before Tuesday
 
 - Read the paper (PDF on Canvas)
 
@@ -53,7 +45,7 @@ Please complete the following BEFORE class:
 
 
 
-### Thursday
+### Before Thursday
 
 Please read the following articles BEFORE class:
 
@@ -90,9 +82,9 @@ knitr::include_graphics("imgs/try.png")
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W3_Sep_12_2023.pdf" role="button" target="_blank">W3: Slides 1</a>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W3_Sep_12_2023.pdf" role="button" target="_blank">W3: Slides 1</a> -->
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W3_Sep_14_2023.pdf" role="button" target="_blank">W3: Slides 2</a>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W3_Sep_14_2023.pdf" role="button" target="_blank">W3: Slides 2</a> -->
 
 
 
@@ -122,9 +114,9 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 3 Quiz
-- Project Milestone 2 (QALMRI)
-- Optional Meme
+<!-- - Week 3 Quiz -->
+<!-- - Project Milestone 2 (QALMRI) -->
+<!-- - Optional Meme -->
 ::::
 :::
 

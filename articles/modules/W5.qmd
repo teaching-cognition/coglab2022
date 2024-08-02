@@ -1,13 +1,7 @@
 ---
-title: "W9: Manipulate Data"
-description: "This is the module for Week 9. We will learn how to wrangle and manipulate data in R/RStudio."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-order: 8
+title: "W5: Recording Data"
+description: "This is the module for Week 6. We will learn how to record data in jsPsych and how to run an experiment online."
+order: 4
 ---
 
 ```{r, include = FALSE}
@@ -19,8 +13,8 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Introduce tidyverse functions
-- Connect tidyverse to research questions
+- Discuss how data are recorded and stored in jsPsych
+- Migrate to cognition.run for online experiments
 
 ## Prep 
 
@@ -42,13 +36,11 @@ knitr::include_graphics("imgs/prep.png")
 
 Please complete the following BEFORE class:
 
-- Complete the [Work with Data](https://posit.cloud/learn/primers/2) primer
+- Read the online documentation on [data storage](https://www.jspsych.org/7.0/overview/data/)
 
 ### Thursday
 
-Please complete the following BEFORE class:
-
-- Complete the [Tidy your Data](https://posit.cloud/learn/primers/4) primer
+- Read the online documentation on [running online experiments](https://www.jspsych.org/7.3/overview/running-experiments/#online)
 
 ::::
 :::
@@ -76,7 +68,8 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W9_Oct_24_2023.pdf" role="button" target="_blank">W9: Slides 1</a>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W6_Oct_3_2023.pdf" role="button" target="_blank">W6: Slides 1</a> -->
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W6_Oct_5_2023.pdf" role="button" target="_blank">W6: Slides 2</a> -->
 
 
 ::::
@@ -103,7 +96,10 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-No assignments are due this week. Please take the time to reflect, reset, and review the course content.
+This week, you will be submitting the following (on Canvas):
+
+- Week 6 Quiz
+- Optional Meme
 
 ::::
 :::

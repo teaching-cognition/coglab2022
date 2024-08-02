@@ -2,19 +2,18 @@
   {
     "listing": "/articles/modules.html",
     "items": [
-      "/articles/modules/W1_Getting_Started.html",
-      "/articles/modules/W2_Replication_Design.html",
-      "/articles/modules/W3_Anatomy.html",
-      "/articles/modules/W4_jsPsych.html",
-      "/articles/modules/W5_timeline.html",
-      "/articles/modules/W6_Data.html",
-      "/articles/modules/W7_Workflow.html",
-      "/articles/modules/W8_Visualize.html",
-      "/articles/modules/W9_Manipulate.html",
-      "/articles/modules/W10_Infer.html",
-      "/articles/modules/W11_13.html",
-      "/articles/modules/W14_Odds_Ends.html",
-      "/articles/modules/W15_Wrap.html"
+      "/articles/modules/W1.html",
+      "/articles/modules/W2.html",
+      "/articles/modules/W3.html",
+      "/articles/modules/W4.html",
+      "/articles/modules/W5.html",
+      "/articles/modules/W6.html",
+      "/articles/modules/W7.html",
+      "/articles/modules/W8.html",
+      "/articles/modules/W9.html",
+      "/articles/modules/W10_12.html",
+      "/articles/modules/W14.html",
+      "/articles/modules/W15.html"
     ]
   }
 ]

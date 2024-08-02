@@ -1,13 +1,7 @@
 ---
-title: "W5: Experiment Timeline"
-description: "This is the module for Week 5. We will learn how to put different parts of an experiment into a coherent timeline."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-order: 4
+title: "W4: Experiment Timeline"
+description: "This is the module for Week 4. We will learn how to put different parts of an experiment into a coherent timeline."
+order: 3
 ---
 
 ```{r, include = FALSE}
@@ -74,8 +68,8 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W5_Sep_26_2023.pdf" role="button" target="_blank">W5: Slides 1</a>
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W5_Sep_28_2023.pdf" role="button" target="_blank">W5: Slides 2</a>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W5_Sep_26_2023.pdf" role="button" target="_blank">W5: Slides 1</a> -->
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W5_Sep_28_2023.pdf" role="button" target="_blank">W5: Slides 2</a> -->
 
 
 ::::

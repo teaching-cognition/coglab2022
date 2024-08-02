@@ -1,13 +1,7 @@
 ---
-title: "Weeks 11-13: Project Work"
-description: "This is the module for Weeks 11 through 13. We will spend these classes ironing out details of your project and making sure everything is going smoothly."
-author: "Abhilasha Kumar"
-date-modified: last-modified
-opengraph:
-  twitter:
-    card: summary_large_image
-    creator: "@abhilashaakumar"
-order: 10
+title: "Weeks 10-12: Project Work"
+description: "This is the module for Weeks 10 through 12. We will spend these classes ironing out details of your project and making sure everything is going smoothly."
+order: 9
 ---
 
 ```{r, include = FALSE}
@@ -80,10 +74,10 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W11_Nov_7_2023.pdf" role="button" target="_blank">W11: Slides 1</a>
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W11_Nov_9_2023.pdf" role="button" target="_blank">W11: Slides 1</a>
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W12_Nov_14_2023.pdf" role="button" target="_blank">W12: Slides 1</a>
-<a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W13_Nov_21_2023.pdf" role="button" target="_blank">W13: Slides 1</a>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W11_Nov_7_2023.pdf" role="button" target="_blank">W11: Slides 1</a> -->
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W11_Nov_9_2023.pdf" role="button" target="_blank">W11: Slides 1</a> -->
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W12_Nov_14_2023.pdf" role="button" target="_blank">W12: Slides 1</a> -->
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W13_Nov_21_2023.pdf" role="button" target="_blank">W13: Slides 1</a> -->
 
 
 ::::

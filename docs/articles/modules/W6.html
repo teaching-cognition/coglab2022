@@ -2,14 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.313">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Abhilasha Kumar">
-<meta name="description" content="This is the module for Week 3. We will discuss the preliminary building blocks of creating an experiment, as well as a framework for maintaining an effective workflow.">
+<meta name="description" content="This is the module for Week 6. We will review some aspects of experiment design in jsPsych and start thinking about how we might analyze data from our experiments">
 
-<title>coglab - W3: Experiment Anatomy</title>
+<title>coglab - W6: Experiment Workflow</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,11 +71,11 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../../styles.css">
-<meta property="og:title" content="coglab - W3: Experiment Anatomy">
-<meta property="og:description" content="This is the module for Week 3. We will discuss the preliminary building blocks of creating an experiment, as well as a framework for maintaining an effective workflow.">
+<meta property="og:title" content="coglab - W6: Experiment Workflow">
+<meta property="og:description" content="This is the module for Week 6. We will review some aspects of experiment design in jsPsych and start thinking about how we might analyze data from our experiments">
 <meta property="og:site-name" content="coglab">
-<meta name="twitter:title" content="coglab - W3: Experiment Anatomy">
-<meta name="twitter:description" content="This is the module for Week 3. We will discuss the preliminary building blocks of creating an experiment, as well as a framework for maintaining an effective workflow.">
+<meta name="twitter:title" content="coglab - W6: Experiment Workflow">
+<meta name="twitter:description" content="This is the module for Week 6. We will review some aspects of experiment design in jsPsych and start thinking about how we might analyze data from our experiments">
 <meta name="twitter:creator" content="@abhilashaakumar">
 <meta name="twitter:card" content="summary">
 </head>
@@ -89,7 +88,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../images/logobar.png" alt="" class="navbar-logo">
+    <img src="../../images/logobar.jpg" alt="" class="navbar-logo">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -128,7 +127,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">W3: Experiment Anatomy</h1>
+      <h1 class="quarto-secondary-nav-title">W6: Experiment Workflow</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -148,67 +147,62 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W1_Getting_Started.html" class="sidebar-item-text sidebar-link">W1: Getting Started</a>
+  <a href="../../articles/modules/W1.html" class="sidebar-item-text sidebar-link">W1: Getting Started</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W2_Replication_Design.html" class="sidebar-item-text sidebar-link">W2: Replication and Design</a>
+  <a href="../../articles/modules/W2.html" class="sidebar-item-text sidebar-link">W2: Experiment Anatomy</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W3_Anatomy.html" class="sidebar-item-text sidebar-link active">W3: Experiment Anatomy</a>
+  <a href="../../articles/modules/W3.html" class="sidebar-item-text sidebar-link">W3: jsPsych</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W4_jsPsych.html" class="sidebar-item-text sidebar-link">W4: jsPsych</a>
+  <a href="../../articles/modules/W4.html" class="sidebar-item-text sidebar-link">W4: Experiment Timeline</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W5_timeline.html" class="sidebar-item-text sidebar-link">W5: Experiment Timeline</a>
+  <a href="../../articles/modules/W5.html" class="sidebar-item-text sidebar-link">W5: Recording Data</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W6_Data.html" class="sidebar-item-text sidebar-link">W6: Recording Data</a>
+  <a href="../../articles/modules/W6.html" class="sidebar-item-text sidebar-link active">W6: Experiment Workflow</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W7_Workflow.html" class="sidebar-item-text sidebar-link">W7: Experiment Workflow</a>
+  <a href="../../articles/modules/W7.html" class="sidebar-item-text sidebar-link">W7: Visualize Data</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W8_Visualize.html" class="sidebar-item-text sidebar-link">W8: Visualize Data</a>
+  <a href="../../articles/modules/W8.html" class="sidebar-item-text sidebar-link">W8: Manipulate Data</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W9_Manipulate.html" class="sidebar-item-text sidebar-link">W9: Manipulate Data</a>
+  <a href="../../articles/modules/W9.html" class="sidebar-item-text sidebar-link">W9: Making Inferences</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W10_Infer.html" class="sidebar-item-text sidebar-link">W10: Making Inferences</a>
+  <a href="../../articles/modules/W10_12.html" class="sidebar-item-text sidebar-link">Weeks 10-12: Project Work</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W11_13.html" class="sidebar-item-text sidebar-link">Weeks 11-13: Project Work</a>
+  <a href="../../articles/modules/W14.html" class="sidebar-item-text sidebar-link">W14: Odds and Ends</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W14_Odds_Ends.html" class="sidebar-item-text sidebar-link">W14: Odds and Ends</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../articles/modules/W15_Wrap.html" class="sidebar-item-text sidebar-link">W15: Wrapping Up!</a>
+  <a href="../../articles/modules/W15.html" class="sidebar-item-text sidebar-link">W15: Wrapping Up!</a>
   </div>
 </li>
     </ul>
@@ -221,44 +215,31 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
    
   <ul>
   <li><a href="#goals" id="toc-goals" class="nav-link active" data-scroll-target="#goals">Goals</a></li>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
   <li><a href="#prep" id="toc-prep" class="nav-link" data-scroll-target="#prep">Prep</a></li>
   <li><a href="#try" id="toc-try" class="nav-link" data-scroll-target="#try">Try</a></li>
   <li><a href="#apply" id="toc-apply" class="nav-link" data-scroll-target="#apply">Apply</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/teaching-cognition/coglab/edit/main/articles/modules/W3_Anatomy.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/teaching-cognition/coglab/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/teaching-cognition/coglab/edit/main/articles/modules/W6.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/teaching-cognition/coglab/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">W3: Experiment Anatomy</h1>
+<h1 class="title d-none d-lg-block">W6: Experiment Workflow</h1>
 </div>
 
 <div>
   <div class="description">
-    This is the module for Week 3. We will discuss the preliminary building blocks of creating an experiment, as well as a framework for maintaining an effective workflow.
+    This is the module for Week 6. We will review some aspects of experiment design in jsPsych and start thinking about how we might analyze data from our experiments
   </div>
 </div>
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Abhilasha Kumar </p>
-          </div>
-  </div>
     
   
-    <div>
-    <div class="quarto-title-meta-heading">Modified</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date-modified">November 21, 2023</p>
-    </div>
-  </div>
     
   </div>
   
@@ -268,13 +249,10 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <section id="goals" class="level2">
 <h2 class="anchored" data-anchor-id="goals">Goals</h2>
 <ul>
-<li>Discuss what goes into the front and back-end of creating a webpage</li>
-<li>Introduce Github and HTML</li>
+<li>Take a breather, reflect on the “Design” module of the course</li>
+<li>Review questions/thoughts on project and formative milestone(s)</li>
+<li>Get some intuitions going about an analysis workflow</li>
 </ul>
-</section>
-<section id="instructions" class="level2">
-<h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<p>Work through each of the following Prep, Try, and Apply sections. Please note that all assigned readings will be available on Canvas, and any submissions should also be made directly on Canvas.</p>
 </section>
 <section id="prep" class="level2">
 <h2 class="anchored" data-anchor-id="prep">Prep</h2>
@@ -286,7 +264,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/prep.png" class="img-fluid figure-img"></p>
+<p><img src="imgs/prep.png" class="img-fluid figure-img" width="312"></p>
 </figure>
 </div>
 </div>
@@ -294,28 +272,15 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 </div>
 </div>
 <div class="g-col-9">
-<div class="card-body">
-<section id="tuesday" class="level3">
-<h3 class="anchored" data-anchor-id="tuesday">Tuesday</h3>
+<section id="thursday" class="level3 card-body">
+<h3 class="anchored" data-anchor-id="thursday">Thursday</h3>
 <p>Please complete the following BEFORE class:</p>
 <ul>
-<li>Read the paper (PDF on Canvas)</li>
-</ul>
-<blockquote class="blockquote">
-<blockquote class="blockquote">
-<p>Barnes, N. Publish your computer code: it is good enough. Nature 467, 753 (2010). https://doi.org/10.1038/467753a</p>
-</blockquote>
-</blockquote>
-</section>
-<section id="thursday" class="level3">
-<h3 class="anchored" data-anchor-id="thursday">Thursday</h3>
-<p>Please read the following articles BEFORE class:</p>
-<ul>
-<li><p><a href="https://medium.com/@ankurdhamija83/day-0-web-development-basics-what-is-the-internet-and-how-it-works-9714e6f82181">How does the internet work</a></p></li>
-<li><p><a href="https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f">A non-technical introduction to HTML/CSS/Javascript</a></p></li>
+<li>Complete HW1 and HW2 from Week 6!</li>
+<li>Bring project-related and formative assignment-related questions to class!</li>
+<li>Review the Results section (pp.&nbsp;1069-1070) of the Savic et al.&nbsp;paper (Experiment 1)</li>
 </ul>
 </section>
-</div>
 </div>
 </div>
 </div>
@@ -330,7 +295,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/try.png" class="img-fluid figure-img"></p>
+<p><img src="imgs/try.png" class="img-fluid figure-img" width="312"></p>
 </figure>
 </div>
 </div>
@@ -341,8 +306,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <section id="slides" class="level3 card-body">
 <h3 class="anchored" data-anchor-id="slides">Slides</h3>
 <p>Here you will find the slides for each class session as well as links to any demos/activities we may do in class.</p>
-<p><a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W3_Sep_12_2023.pdf" role="button" target="_blank">W3: Slides 1</a></p>
-<p><a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W3_Sep_14_2023.pdf" role="button" target="_blank">W3: Slides 2</a></p>
+<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W7_Oct_12_2023.pdf" role="button" target="_blank">W7: Slides</a> -->
 </section>
 </div>
 </div>
@@ -358,7 +322,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="imgs/apply.png" class="img-fluid figure-img"></p>
+<p><img src="imgs/apply.png" class="img-fluid figure-img" width="288"></p>
 </figure>
 </div>
 </div>
@@ -369,8 +333,7 @@ gtag('config', 'G-0PT8LKEC0K', { 'anonymize_ip': true});
 <div class="card-body">
 <p>This week, you will be submitting the following (on Canvas):</p>
 <ul>
-<li>Week 3 Quiz</li>
-<li>Project Milestone 2 (QALMRI)</li>
+<li>Formative Milestone #1 (jsPsych)</li>
 <li>Optional Meme</li>
 </ul>
 </div>
