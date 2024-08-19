@@ -1,6 +1,6 @@
 ---
 title: "W1: Getting Started"
-description: "This is a general orientation for PSYC 2740, Fall 2024. Start here to learn more about how this course will work."
+description: "Welcome to the orientation module for PSYC 2740! We will cover everything here and more on the first day of class. See you there."
 order: 0 
 ---
 
@@ -11,7 +11,6 @@ knitr::opts_chunk$set(
 )
 ```
 
-Welcome to the orientation module for PSYC 2740! We will cover everything here and more on the first day of class. See you there.
 
 ## Goals
 
@@ -42,22 +41,20 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-Read the syllabus for this course. If you have questions about the syllabus, then please ask them in class or by annotating the syllabus on Canvas.
+Read the syllabus for this course. If you have questions about the syllabus, then please ask them in class.
 
 <a class="btn btn-outline-info" href="../course_docs/syllabus.html" role="button" >Read</a>
 
 ### Before Thursday
 
-- Complete the experiment using the link on Canvas
-- Read the paper (PDF on Canvas): 
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63593?module_item_id=382040" target="_blank">Complete the language experiment</a></span>
 
->> Frank, M. C., & Saxe, R. (2012). Teaching replication. Perspectives on Psychological Science, 7(6), 600-604.
+https://bowdoin.instructure.com/courses/6255/assignments/63593?module_item_id=382040
+- Read the [QALMRI + SPARK tutorial](https://teaching-me.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
 
 ### After Thursday
 
-- Read the [QALMRI + SPARK tutorial](https://teaching-me.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
-
-- Read the paper (PDF on Canvas): 
+- Read the paper [Canvas link]:
 
 >> Savic, O., Unger, L., & Sloutsky, V. M. (2022). Exposure to co-occurrence regularities in language drives semantic integration of new words. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 48</i>(7), 1064.
 
@@ -114,10 +111,10 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following:
+At the end of this week, you will be submitting the following:
 
-- Week 1 (Syllabus) Reflections
-- CITI training certificate
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/64645?module_item_id=386080" target="_blank">Week 1 Reflection</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63580?module_item_id=382037" target="_blank">CITI training certificate</a></span>
 
 ::::
 :::

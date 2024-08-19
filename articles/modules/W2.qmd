@@ -54,7 +54,6 @@ Please read the following articles BEFORE class:
 - [A non-technical introduction to HTML/CSS/Javascript](https://medium.com/@ankurdhamija83/web-development-basics-understanding-the-concept-of-html-css-and-javascript-1fc24a07719f)
 
 
-
 ::::
 :::
 ::::
@@ -112,11 +111,10 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
+This week, you will be submitting the following:
 
-<!-- - Week 3 Quiz -->
-<!-- - Project Milestone 2 (QALMRI) -->
-<!-- - Optional Meme -->
+- Project Milestone 1 (Team Plan + Lit Review)
+
 ::::
 :::
 
