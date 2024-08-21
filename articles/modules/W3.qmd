@@ -32,25 +32,26 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday
+### Before Tuesday
 
-Please complete the following BEFORE class:
-
-- Read the articles (PDF/Links on Canvas)
+- Read an article about jsPsych [Canvas link](https://bowdoin.instructure.com/courses/6255/files/728564?module_item_id=382051):
 
 >> de Leeuw, J.R. jsPsych: A JavaScript library for creating behavioral experiments in a Web browser. Behavior Research Methods, 47, 1–12 (2015). https://doi.org/10.3758/s13428-014-0458-y
 
+- Read the following article:
 >> [A non-technical introduction to basic coding concepts](https://jaeyoungson.com/posts/2021-07-12-no-code-intro-programming/)
 
 
 
-### Thursday
-
-Please complete the following BEFORE class:
+### Before Thursday
 
 - Read the online documentation on jsPsych plugins
 
 >> https://www.jspsych.org/7.0/overview/plugins/
+
+### After Thursday
+
+- Coordinate with your group to start writing your project proposal [due Sunday](https://bowdoin.instructure.com/courses/6255/assignments/63601?module_item_id=382119)
 
 ::::
 :::
@@ -109,8 +110,8 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 4 Quiz
-- Project Milestone 3 (Project Proposal)
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63601?module_item_id=382119" target="_blank">Project Milestone 2 (Project Proposal: due Sunday)</a></span>
+
 
 ::::
 :::

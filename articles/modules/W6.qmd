@@ -33,15 +33,17 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
+Welcome back! 
 
-### Thursday
-
-Please complete the following BEFORE class:
+### Before Thursday
 
 - Complete HW1 and HW2 from Week 6!
 - Bring project-related and formative assignment-related questions to class!
 - Review the Results section (pp. 1069-1070) of the Savic et al. paper (Experiment 1)
 
+### After Thursday
+
+- Work on your first formative assignment! 
 
 ::::
 :::
@@ -97,8 +99,7 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Formative Milestone #1 (jsPsych)
-- Optional Meme
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63587?module_item_id=382070" target="_blank">Formative Milestone #1 (jsPsych: due Sunday)</a></span>
 
 ::::
 :::

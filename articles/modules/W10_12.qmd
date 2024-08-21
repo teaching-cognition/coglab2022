@@ -32,13 +32,11 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday
-
-Please complete the following BEFORE class:
+### Before Tuesday
 
 - Make sure piloting is complete. Bring questions to class! 
 
-### Thursday
+### Before Thursday
 
 We will return to statistical inference. Please complete the following BEFORE class:
 
@@ -46,7 +44,17 @@ We will return to statistical inference. Please complete the following BEFORE cl
 
 - [Practical Statistical Modeling](https://statsthinking21.github.io/statsthinking21-core-site/practical-example.html) (Ch.17 in Statistical Thinking for the 21st Century by Russ Poldrack)
 
-- All primers from Posit
+- All previous recipes from [Posit](https://posit.cloud/learn/recipes)
+
+### After Thursday
+
+Lots to do in these weeks before break! 
+
+- Work on Formative Milestone #3 (R Inferential)
+- Finalize pre-registration for Project Milestone #5
+- Resubmit Formative Milestone #2 (R Descriptive)
+- Submit initial analyses for Project Milestone #6
+
 
 ::::
 :::
@@ -106,10 +114,11 @@ knitr::include_graphics("imgs/apply.png")
 
 During these last 4 weeks, you will be submitting the following (on Canvas):
 
-- Weeks 11-13 Quizzes
-- Formative Assignment (R Inferential)
-- Class Survey [November]
-- Optional Meme(s)
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63591?module_item_id=382092" target="_blank">Formative Assignment 3 (R Inferential, due Sunday, Nov 10)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63590?module_item_id=382091" target="_blank">Formative Assignment 2 Resubmission (due Sunday, Nov 17)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63607?module_item_id=382086" target="_blank">Project Milestone 5 (Pre-registration, due Monday, Nov 18)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63609?module_item_id=382095" target="_blank">Project Milestone 6 (Analyses, due Friday, Nov 20)</a></span>
+
 
 ::::
 :::

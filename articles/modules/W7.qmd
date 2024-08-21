@@ -32,20 +32,19 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday
-
-Please complete the following BEFORE class:
+### Before Tuesday
 
 - Download [R for mac](https://cran.r-project.org/bin/macosx/) by clicking on the first .pkg link on the webpage.
 - Download [Rstudio](https://posit.co/download/rstudio-desktop/)
-- Complete the [Programming Basics](https://posit.cloud/learn/primers/1.2) primer from posit.
+- Complete the [R Basics](https://posit.cloud/learn/recipes) recipes from posit.
 
-### Thursday
+### Before Thursday
 
-Please complete the following BEFORE class:
+- Complete the [Visualize Data](https://posit.cloud/learn/recipes) recipes from posit.
 
-- Complete the [Visualization Basics](https://posit.cloud/learn/primers/1.1) primer from posit.
+### After Thursday
 
+- Coordinate with your group to submit Project Milestone #4 (Full Experiment, due Sunday)
 
 
 ::::
@@ -104,10 +103,8 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 8 Quiz
-- Formative milestone # 1 resubmission
-- Project Milestone 5 (Full Experiment)
-- Optional Meme
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63605?module_item_id=382077" target="_blank">Project Milestone 4 (Full Experiment: due Sunday)</a></span>
+
 
 ::::
 :::

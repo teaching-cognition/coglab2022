@@ -33,12 +33,18 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday/Thursday
+### Before Tuesday
 
-- Read the paper (PDF on Canvas)
+- Bring questions to class!
 
->> Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The Science of Visual Data Communication: What Works. Psychological Science in the Public Interest, 22(3), 110–161. https://doi.org/10.1177/15291006211051956
+### Before Thursday
 
+- Submit your poster draft, due Wednesday
+
+### After Thursday
+
+- Revise your poster based on feedback
+- Work on your Formative Assignment 3 (R inferential) resubmission, due Sunday
 
 ::::
 :::
@@ -94,10 +100,8 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- Week 13 Quiz
-- Project Milestone 7 (Analyses)
-- Project Milestone 8 (Poster Draft)
-- Optional Meme
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63611?module_item_id=382100" target="_blank">Project Milestone 7 (Poster Draft, due Wednesday, Dec 4)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63592?module_item_id=382099" target="_blank">Formative Assignment 3 Resubmission (due Sunday, Dec 8)</a></span>
 
 ::::
 :::

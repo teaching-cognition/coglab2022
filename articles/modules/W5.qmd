@@ -32,16 +32,18 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday
-
-Please complete the following BEFORE class:
+### Before Tuesday
 
 - Read the online documentation on [data storage](https://www.jspsych.org/7.0/overview/data/)
 
-### Thursday
+### Before Thursday
 
 - Read the online documentation on [running online experiments](https://www.jspsych.org/7.3/overview/running-experiments/#online)
 
+### After Thursday
+
+- Enjoy fall break!! 
+- Your next assignment is your first formative assignment (jsPsych), due Oct 13!  
 ::::
 :::
 ::::
@@ -96,10 +98,7 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be submitting the following (on Canvas):
-
-- Week 6 Quiz
-- Optional Meme
+No submissions this week - enjoy the break! Keep track of what's coming up by looking at the [schedule](../course_docs/syllabus.html#course-schedule)! 
 
 ::::
 :::

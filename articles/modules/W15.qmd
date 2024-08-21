@@ -32,17 +32,14 @@ knitr::include_graphics("imgs/prep.png")
 
 ::: {.g-col-9}
 :::: {.card-body}
-### Tuesday
+### Before Tuesday
 
-Please complete the following BEFORE class:
-
-- TBD
+- Poster should be ready to go!
+- Bring questions to class!
 
 ### Thursday
 
-Please complete the following BEFORE class:
-
-- TBD
+Get ready for your class presentations! See you in the Druck Atrium!
 
 ::::
 :::
@@ -103,11 +100,14 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be doing the following:
 
-- Presenting your poster!! [Project Milestone 9]
+- [Project Milestone 8 (Poster Presentation), no submission required](https://bowdoin.instructure.com/courses/6255/assignments/63613?module_item_id=382103)
 
 After this week, you will have the following TO-DOs:
 
-- Project Milestone 10: Submit your final report.
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63594?module_item_id=382104" target="_blank">Project Milestone  9 (Final Report)</a></span>
+- Project Milestone 10 (Team Skills), no submission required
+
+Thank you for a wonderful semester!!
 
 ::::
 :::

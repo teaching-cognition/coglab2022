@@ -33,18 +33,20 @@ Welcome! This page hosts the syllabus for PSYC 2740
 
 ### Who is your learning assistant?
 
-<!-- <img width = "30%" height = "auto" src = "../../images/jon.jpg"><br> -->
+<img width = "30%" height = "auto" src = "../../images/uma.jpg"><br>
 **Uma Mohamed**
 
-<!--**Pronouns**: he/they
+**Pronouns**: she/her
 
-**About me**: I am a junior majoring in psychology and math. I grew up in Minnesota and Connecticut, and after Bowdoin I hope to live in the city (New York, Chicago, Oslo?) and pursue a clinical neuroscience career. For now, I enjoy shopping, concerts and musicals, hockey, coffee shops, and Star Wars. I have also been a Starbucks barista for 5 years. <br>
+**About me**: I am a senior majoring in Psychology and Digital Computational Studies with a minor in Africana Studies. I spent the spring semester studying in Jordan and Switzerland where I completed a research project on the perceptions and behaviors of young Jordanian woman on their second-class citizenship. Also, I spent the summer in Boston interning at Wayfair as a Business Analyst. Cognitive psych classes have been my favorite courses at Bowdoin so far, so I am excited to be a learning assistant for this course! In my free time, I love cooking, trying to create pottery and watching a lot of random YouTube videos. <br>
 
-**Email**: jsides\@bowdoin.edu
+**Email**: umohamed\@bowdoin.edu
 
 **Office**: Kanbar Hall, Room 200-->
 
 ### Student/Office Hours 
+
+TBD!
 
 <!-- **Abhilasha's office hours (Kanbar 217)**: <br> -->
 

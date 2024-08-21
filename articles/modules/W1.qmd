@@ -49,14 +49,15 @@ Read the syllabus for this course. If you have questions about the syllabus, the
 
 - <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63593?module_item_id=382040" target="_blank">Complete the language experiment</a></span>
 
-https://bowdoin.instructure.com/courses/6255/assignments/63593?module_item_id=382040
 - Read the [QALMRI + SPARK tutorial](https://teaching-me.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
 
 ### After Thursday
 
-- Read the paper [Canvas link]:
+- Read the paper [Canvas link](https://bowdoin.instructure.com/courses/6255/files/728580?module_item_id=382042):
 
 >> Savic, O., Unger, L., & Sloutsky, V. M. (2022). Exposure to co-occurrence regularities in language drives semantic integration of new words. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 48</i>(7), 1064.
+
+- Submit your Week 1 reflection and CITI certificate (due Sunday)
 
 ::::
 :::
@@ -113,8 +114,8 @@ knitr::include_graphics("imgs/apply.png")
 
 At the end of this week, you will be submitting the following:
 
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/64645?module_item_id=386080" target="_blank">Week 1 Reflection</a></span>
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63580?module_item_id=382037" target="_blank">CITI training certificate</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/64645?module_item_id=386080" target="_blank">Week 1 Reflection (due Sunday)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63580?module_item_id=382037" target="_blank">CITI training certificate (due Sunday)</a></span>
 
 ::::
 :::
