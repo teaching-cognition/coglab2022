@@ -40,8 +40,8 @@ website:
         file: articles/course_docs/syllabus.qmd
       - text: "Schedule"
         file: articles/course_docs/syllabus.html#course-schedule
-      - text: "Modules"
-        file: articles/modules.qmd
+      - text: "Grading"
+        file: articles/course_docs/syllabus.html#grading
       - text: "QALMRI & SPARK"
         file: articles/course_docs/QALMRI_SPARK.qmd
       - text: "Additional Resources"

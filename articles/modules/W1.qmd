@@ -20,7 +20,11 @@ knitr::opts_chunk$set(
 
 ## Instructions 
 
-Work through each of the following Prep, Try, and Apply sections. The Prep section will provide details on all the assigned material for Tuesday and Thursday each week. The Try section will contain any slides/links that may be used during class as well as details about quizzes you may need to complete in a given week. The Apply section will provide instructions about the formative and/or project assignment(s) due at the end of the week.
+Work through each of the following Prep, Try, and Apply sections. 
+
+- The **Prep** section will provide details on all the assigned material you need to complete that week on different days. 
+- The  **Try** section will contain any slides/links that may be used during class. 
+- The  **Apply** section will provide instructions about the formative and/or project assignment(s) due at the end of the week.
 
 ## Prep
 
@@ -41,9 +45,8 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-Read the syllabus for this course. If you have questions about the syllabus, then please ask them in class.
-
-<a class="btn btn-outline-info" href="../course_docs/syllabus.html" role="button" >Read</a>
+- Complete the <a href="https://bowdoin.instructure.com/courses/6255/assignments/63614?module_item_id=382030" target="_blank">pre-class survey</a>!
+- Read the [syllabus](../course_docs/syllabus.html) for this course. If you have questions about the syllabus, then please ask them in class or in the survey.
 
 ### Before Thursday
 
@@ -53,11 +56,11 @@ Read the syllabus for this course. If you have questions about the syllabus, the
 
 ### After Thursday
 
-- Read the paper [Canvas link](https://bowdoin.instructure.com/courses/6255/files/728580?module_item_id=382042):
+- Read the paper: [Canvas link](https://bowdoin.instructure.com/courses/6255/files/728580?module_item_id=382042)
 
 >> Savic, O., Unger, L., & Sloutsky, V. M. (2022). Exposure to co-occurrence regularities in language drives semantic integration of new words. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 48</i>(7), 1064.
 
-- Submit your Week 1 reflection and CITI certificate (due Sunday)
+- Submit your Week 1 reflection and CITI certificate (due Sunday, see the [Apply](#apply) section)
 
 ::::
 :::
