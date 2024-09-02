@@ -1,6 +1,6 @@
 ---
 title: "W9: Making Inferences"
-description: "This is the module for Week 4. We will learn how to draw inferences based on statistical analysis."
+description: "This is the module for Week 9. We will learn how to draw inferences based on statistical analysis."
 order: 8
 ---
 

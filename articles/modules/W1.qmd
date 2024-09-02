@@ -52,13 +52,13 @@ knitr::include_graphics("imgs/prep.png")
 
 - <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63593?module_item_id=382040" target="_blank">Complete the language experiment</a></span>
 
-- Read the [QALMRI + SPARK tutorial](https://teaching-me.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
-
 ### After Thursday
 
 - Read the paper: [Canvas link](https://bowdoin.instructure.com/courses/6255/files/728580?module_item_id=382042)
 
 >> Savic, O., Unger, L., & Sloutsky, V. M. (2022). Exposure to co-occurrence regularities in language drives semantic integration of new words. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition, 48</i>(7), 1064.
+
+- Read the [QALMRI + SPARK tutorial](https://teaching-me.github.io/coglab/articles/course_docs/QALMRI_SPARK.html) on the course website
 
 - Submit your Week 1 reflection and CITI certificate (due Sunday, see the [Apply](#apply) section)
 
