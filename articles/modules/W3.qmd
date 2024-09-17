@@ -51,7 +51,7 @@ knitr::include_graphics("imgs/prep.png")
 
 ### After Thursday
 
-- Coordinate with your group to start writing your project proposal [due Sunday](https://bowdoin.instructure.com/courses/6255/assignments/63601?module_item_id=382119)
+- Coordinate with your group to start writing your project proposal, see the [Apply](#apply) section.
 
 ::::
 :::
@@ -79,8 +79,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W4_Sep_19_2023.pdf" role="button" target="_blank">W4: Slides 1</a> -->
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W4_Sep_21_2023.pdf" role="button" target="_blank">W4: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W3_jsPsych101.pdf" role="button" target="_blank">W3: Slides 1</a>
 
 
 
