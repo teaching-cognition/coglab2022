@@ -42,7 +42,7 @@ knitr::include_graphics("imgs/prep.png")
 
 ### After Thursday
 
-- Coordinate with your group to submit a draft of your experiment code as your third project milestone!
+- Coordinate with your group to submit a draft of your experiment code as your third project milestone! See the [Apply](#apply) section.
 
 ::::
 :::
@@ -70,8 +70,8 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W5_Sep_26_2023.pdf" role="button" target="_blank">W5: Slides 1</a> -->
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W5_Sep_28_2023.pdf" role="button" target="_blank">W5: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W4_timelines.pdf" role="button" target="_blank">W4: Slides 1</a>
+
 
 
 ::::
