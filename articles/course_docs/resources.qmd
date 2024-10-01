@@ -10,6 +10,14 @@ knitr::opts_chunk$set(
 )
 ```
 
+## Class-specific resources
+
+1. [CogLab CheatSheet](https://docs.google.com/spreadsheets/d/1aa-3V_7HWcrTrsVI9JJWIcfkNMXVpc5fV60q01c5oHs/edit?usp=sharing)
+2. [jsPsych website](https://www.jspsych.org/)
+3. [jsPsych online help community](https://github.com/jspsych/jsPsych/issues)
+4. [jsPsych practice questions](https://docs.google.com/document/d/1ohldHgVm4QEPe7wGsa-0lzOFCxbioHMl/edit?usp=sharing&ouid=114230382498081849934&rtpof=true&sd=true): Answers [here](https://docs.google.com/document/d/1b-82jvq-BfHCSPDLDNPIjLk2EO7qfkOr/edit?usp=drive_link&ouid=114230382498081849934&rtpof=true&sd=true)
+5. [jsPsych debugging checklist](https://docs.google.com/document/d/1aF1rCqjO4HOChvK5Aa5Rrth-Y9XUQ5xNJmKsF_3Cm3U/edit?usp=drive_link)
+
 ## Poster designing resources
 
 1. <a href="https://www.apa.org/gradpsych/2011/01/poster" target="_blank">The perfect poster, Michael Price, APA</a>
