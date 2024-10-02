@@ -218,9 +218,9 @@ There will be some opportunities to earn extra credit during the semester. These
 
 1. <u>Complete class surveys (2 points) </u>: There will be 3 surveys (beginning, mid-semester, end of semester) to gather your reflections and suggestions to improve the course. With the exception of the pre-class survey (which is mandatory), all other surveys will be anonymous, and you will be able to earn 1 point for each survey you complete. 
 
-2. <u> Win Star Coder (1 point)</u>: You will submit 3 formative coding assignments during the semester. The student who scores the combined highest score on these assignments will earn 1 extra credit each.
+2. <u> Win Star Coder (2 points)</u>: You will submit 3 formative coding assignments during the semester. The student who scores the combined highest score on the FIRST attempt for these assignments will earn 1 extra credit.
 
-3. <u> Win Team Player (2 points)</u>: Throughout the course, I will also evaluate who stood out as a team player, by observing how you participate in groups and contribute to group work. The student who stands out in this respect will earn 2 extra credit points.
+3. <u> Win Team Player (1 point)</u>: Throughout the course, I will also evaluate who stood out as a team player, by observing how you participate in groups and contribute to group work. The student who stands out in this respect will earn 1 extra credit point.
 
 
 ## Course Policies
