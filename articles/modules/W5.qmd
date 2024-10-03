@@ -73,6 +73,8 @@ Here you will find the slides for each class session as well as links to any dem
 
 <a class="btn btn-outline-info" href="../../slides/W5_recording_data.pdf" role="button" target="_blank">W5: Slides 1</a>
 
+<a class="btn btn-outline-info" href="../../slides/W5_going_online.pdf" role="button" target="_blank">W5: Slides 2</a>
+
 
 ::::
 :::
@@ -98,7 +100,11 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-No submissions this week - enjoy the break! Keep track of what's coming up by looking at the [schedule](../course_docs/syllabus.html#course-schedule)! 
+No submissions are due this week - enjoy the break! 
+
+Please complete the HW assigned to you from the [slides](../../slides/W5_going_online.pdf). 
+
+Keep track of what's coming up by looking at the [schedule](../course_docs/syllabus.html#course-schedule)! 
 
 ::::
 :::
