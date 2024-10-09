@@ -162,8 +162,8 @@ Due dates for these milestones are available on Canvas. The breakdown of how the
 |:-------------|:------------|
 | 1: Team plan + Literature review            | 5 |
 | 2: Project proposal                         | 5 |
-| 3: Design draft                    | 5 |
-| 4: Full Experiment                 | 5 |
+| 3: Design draft                    | 2 |
+| 4: Full Experiment                 | 7 |
 | 5: Pre-registration                | 5 |
 | 6: Analyses            | 10 |
 | 7: Poster draft                    | 5 |
