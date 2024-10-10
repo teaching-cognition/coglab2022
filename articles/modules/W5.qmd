@@ -43,7 +43,7 @@ knitr::include_graphics("imgs/prep.png")
 ### After Thursday
 
 - Enjoy fall break!! 
-- Your next assignment is your first formative assignment (jsPsych), due Oct 13!  
+- Your next assignment is your first formative assignment (jsPsych), due Oct 14!  
 ::::
 :::
 ::::
