@@ -36,11 +36,10 @@ knitr::include_graphics("imgs/prep.png")
 
 - Download [R for mac](https://cran.r-project.org/bin/macosx/) by clicking on the first .pkg link on the webpage.
 - Download [Rstudio](https://posit.co/download/rstudio-desktop/)
-- Complete the [R Basics](https://posit.cloud/learn/recipes) recipes from posit.
 
 ### Before Thursday
 
-- Complete the [Visualize Data](https://posit.cloud/learn/recipes) recipes from posit.
+- Work on your project! 
 
 ### After Thursday
 
@@ -73,9 +72,8 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W8_Oct_17_2023.pdf" role="button" target="_blank">W8: Slides 1</a> -->
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W8_Oct_19_2023.pdf" role="button" target="_blank">W8: Slides 2</a> -->
 
+<a class="btn btn-outline-info" href="../../slides/W7_visualize.pdf" role="button" target="_blank">W7: Slides</a>
 
 ::::
 :::
