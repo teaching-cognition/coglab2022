@@ -74,6 +74,9 @@ Here you will find the slides for each class session as well as links to any dem
 
 You will also need to download [this data file](https://drive.google.com/file/d/1lMcUFwMMNwCVLRe1jgX8UkCLjAd7rWJR/view). 
 
+<a class="btn btn-outline-info" href="../../slides/W8_manipulate_more.pdf" role="button" target="_blank">W8: Slides 2</a>
+
+
 
 
 ::::
