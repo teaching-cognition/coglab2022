@@ -1,6 +1,6 @@
 ---
-title: "W9: Making Inferences"
-description: "This is the module for Week 9. We will learn how to draw inferences based on statistical analysis."
+title: "W9: Project Work"
+description: "This is the module for Week 9. We will work on your projects."
 order: 8
 ---
 
@@ -13,9 +13,9 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Connect tidyverse to research questions
-- Introduce statistical tests in R
-- Provide basic primer/review on t-tests / ANOVAs
+- Introduce and work on checklist
+- Start building pre-registration draft
+- Check in regarding Formative Assignment #2
 
 ## Prep 
 
@@ -38,6 +38,8 @@ knitr::include_graphics("imgs/prep.png")
 Please complete the following BEFORE class:
 
 - Review [tidyverse](https://malooflab.ucdavis.edu/apps/tidyverse-tutorial/) via this tutorial!
+- Review the <a href="https://docs.google.com/document/d/1awBlrkTABJTkBTeTPdSfwmBSWQWO1dexDUh57GALmJU/edit?usp=sharing" target="_blank">project checklist</a>
+- Review the <a href="https://docs.google.com/document/d/189HqTcnJWXfCuOKpCavEqlgTbOKA7QbCmS36xz44YwM/edit?usp=sharing" target="_blank">pre-registration questionnaire</a>
 
 
 ### Before Thursday
@@ -107,7 +109,7 @@ knitr::include_graphics("imgs/apply.png")
 
 This week, you will be submitting the following (on Canvas):
 
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63589?module_item_id=382085" target="_blank">Formative Assignment 2 (R Descriptive, due Sunday)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63589?module_item_id=382085" target="_blank">Formative Assignment 2 (R Descriptive, due Monday)</a></span>
 
 ::::
 :::
