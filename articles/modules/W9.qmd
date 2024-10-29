@@ -50,7 +50,7 @@ Please complete the following BEFORE class:
 
 ### After Thursday
 
-- Start working on Formative Assignment #2 (R Descriptive)
+- Continue working on Formative Assignment #2 (R Descriptive, due Monday). See the [Apply](#apply) section.
 
 ::::
 :::
@@ -78,8 +78,8 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W10_Oct_31_2023.pdf" role="button" target="_blank">W10: Slides 1</a> -->
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W10_Nov_2_2023.pdf" role="button" target="_blank">W10: Slides 2</a> -->
+<a class="btn btn-outline-info" href="../../slides/W9_projects.pdf" role="button" target="_blank">W9: Slides 1</a>
+
 
 
 
