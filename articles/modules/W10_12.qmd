@@ -1,6 +1,6 @@
 ---
 title: "Weeks 10-12: Project Work"
-description: "This is the module for Weeks 10 through 12. We will spend these classes ironing out details of your project and making sure everything is going smoothly."
+description: "This is the module for Weeks 10 through 12. We will spend these classes ironing out details of your project and making sure everything is going smoothly. We will also round out our discussion of statistical inferencing."
 order: 9
 ---
 
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 ```
 
 ## Goals
-
+- Final module on data analysis / statistical inference
 - Focus on experiment finalizing
 - Monitor data collection
 
@@ -34,11 +34,7 @@ knitr::include_graphics("imgs/prep.png")
 :::: {.card-body}
 ### Before Tuesday
 
-- Make sure piloting is complete. Bring questions to class! 
-
-### Before Thursday
-
-We will return to statistical inference. Please complete the following BEFORE class:
+- Make sure you're working on your project checklist + pre-registration!
 
 - [Hypothesis Testing](https://statsthinking21.github.io/statsthinking21-core-site/hypothesis-testing.html) (Ch.9 in Statistical Thinking for the 21st Century by Russ Poldrack)
 
@@ -46,15 +42,13 @@ We will return to statistical inference. Please complete the following BEFORE cl
 
 - Review [tidyverse](https://malooflab.ucdavis.edu/apps/tidyverse-tutorial/) via this tutorial!
 
+### Before Thursday
+
+- Make sure piloting is complete. Bring questions to class! 
+
 ### After Thursday
 
-Lots to do in these weeks before break! 
-
-- Work on Formative Milestone #3 (R Inferential)
-- Finalize pre-registration for Project Milestone #5
-- Resubmit Formative Milestone #2 (R Descriptive)
-- Submit initial analyses for Project Milestone #6
-
+Lots to do in these weeks before break! See the [Apply](#apply) section.
 
 ::::
 :::
@@ -82,11 +76,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W11_Nov_7_2023.pdf" role="button" target="_blank">W11: Slides 1</a> -->
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W11_Nov_9_2023.pdf" role="button" target="_blank">W11: Slides 1</a> -->
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W12_Nov_14_2023.pdf" role="button" target="_blank">W12: Slides 1</a> -->
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W13_Nov_21_2023.pdf" role="button" target="_blank">W13: Slides 1</a> -->
-
+<a class="btn btn-outline-info" href="../../slides/W10_models.pdf" role="button" target="_blank">W10: Slides 1</a>
 
 ::::
 :::
@@ -112,12 +102,12 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-During these last 4 weeks, you will be submitting the following (on Canvas):
+During these last 4 weeks before Thanksgiving, you will be submitting the following (on Canvas):
 
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63591?module_item_id=382092" target="_blank">Formative Assignment 3 (R Inferential, due Sunday, Nov 10)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63607?module_item_id=382086" target="_blank">Project Milestone 5 (Pre-registration, due Monday, Nov 11)</a></span>
 - <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63590?module_item_id=382091" target="_blank">Formative Assignment 2 Resubmission (due Sunday, Nov 17)</a></span>
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63607?module_item_id=382086" target="_blank">Project Milestone 5 (Pre-registration, due Monday, Nov 18)</a></span>
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63609?module_item_id=382095" target="_blank">Project Milestone 6 (Analyses, due Friday, Nov 20)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63591?module_item_id=382092" target="_blank">Formative Assignment 3 (R Inferential, due Monday, Nov 18)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63609?module_item_id=382095" target="_blank">Project Milestone 6 (Analyses I, due Friday, Nov 22)</a></span>
 
 
 ::::
