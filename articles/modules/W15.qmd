@@ -98,14 +98,15 @@ knitr::include_graphics("imgs/apply.png")
 ::: {.g-col-9}
 :::: {.card-body}
 
-This week, you will be doing the following:
+This week, you have the following milestones graded (no submission required)
 
-- [Project Milestone 8 (Poster Presentation), no submission required](https://bowdoin.instructure.com/courses/6255/assignments/63613?module_item_id=382103)
+
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63613?module_item_id=382103" target="_blank">Project Milestone 8 (Poster Presentation)</a></span>
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/64903?module_item_id=387065" target="_blank">Project Milestone 9 (Team Skills)</a></span>
 
 After this week, you will have the following TO-DOs:
 
-- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63594?module_item_id=382104" target="_blank">Project Milestone  9 (Final Report)</a></span>
-- Project Milestone 10 (Team Skills), no submission required
+- <span style="color:#508AB0"><a href="https://bowdoin.instructure.com/courses/6255/assignments/63594?module_item_id=382104" target="_blank">Project Milestone  10 (Final Report, due Dec 20)</a></span>
 
 Thank you for a wonderful semester!!
 
