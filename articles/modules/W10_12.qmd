@@ -80,7 +80,7 @@ Here you will find the slides for each class session as well as links to any dem
 <a class="btn btn-outline-info" href="../../slides/W10_data_collection.pdf" role="button" target="_blank">W10: Slides 2</a>
 <a class="btn btn-outline-info" href="../../slides/W11_data_collection.pdf" role="button" target="_blank">W11: Slides 1</a>
 <a class="btn btn-outline-info" href="../../slides/W11_prolific.pdf" role="button" target="_blank">W11: Slides 2</a>
-<a class="btn btn-outline-info" href="../../slides/W11_prolific.pdf" role="button" target="_blank">W12: Slides 1</a>
+<a class="btn btn-outline-info" href="../../slides/W12_variation.pdf" role="button" target="_blank">W12: Slides 1</a>
 
 ::::
 :::
