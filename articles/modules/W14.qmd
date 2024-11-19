@@ -1,6 +1,6 @@
 ---
 title: "W14: Odds and Ends"
-description: "This is the module for Week 14. We will start wrapping up and tying up loose ends!"
+description: "Welcome Back!! This is the module for Week 14. We will start wrapping up and tying up loose ends!"
 order: 10
 ---
 
@@ -44,7 +44,6 @@ knitr::include_graphics("imgs/prep.png")
 ### After Thursday
 
 - Revise your poster based on feedback
-- Work on your Formative Assignment 3 (R inferential) resubmission, due Sunday
 
 ::::
 :::
