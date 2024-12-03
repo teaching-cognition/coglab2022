@@ -13,9 +13,9 @@ knitr::opts_chunk$set(
 
 ## Goals
 
-- Focus on experiment finalizing
-- Monitor data collection
-- Discuss poster designing principles
+- Focus on R notebook finalizing
+- Finalize/complete data collection
+- Discuss poster designing principles + plan
 
 ## Prep 
 
@@ -71,8 +71,7 @@ knitr::include_graphics("imgs/try.png")
 
 Here you will find the slides for each class session as well as links to any demos/activities we may do in class.
 
-<!-- <a class="btn btn-outline-info" href="https://teaching-me.github.io/coglab/slides/W14_Nov_30_2023.pdf" role="button" target="_blank">W14: Slides</a> -->
-
+<a class="btn btn-outline-info" href="../../slides/W14_odds_ends.pdf" role="button" target="_blank">W14: Slides 1</a>
 ::::
 :::
 
